@@ -1,0 +1,110 @@
+/* cette structure est base sur http://blog.html.it/layoutgala/ modele #24 -> nav et extra fixed width, contenu liquid. J'ai ajout� body min-width */
+ 
+html,body
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	font: 76% arial,sans-serif;
+	
+	/* l'image de fond */
+	background-repeat     : no-repeat
+	background-position   : 50% 100%;
+	background-attachment : fixed;
+}
+
+#principal
+{
+    width: 960px;
+    margin: auto;
+}
+
+#logoCegep
+{
+	padding: 5px;
+}
+
+
+div#navigation
+{
+	background: whitesmoke;
+}
+
+div#extra
+{
+	background:#FF8539;
+}
+
+div#piedpage
+{
+	background: #333;
+	color: #FFF;
+	text-align: center;
+}
+
+div#piedpage p
+{
+	margin:0;
+	padding:5px 10px;
+}
+
+div#enveloppe
+{
+	float:right;
+	width:100%;
+	margin-left:-240px;
+}
+
+div#contenu
+{
+	margin-left:240px;
+}
+
+div#navigation
+{
+	float:left;
+	width:240px;
+}
+
+
+
+
+div#piedpage
+{
+	clear:both;
+	width:100%;
+	
+}
+
+div#souscontenu
+{
+	clear:both;
+	margin-left:240px;
+	margin-top:35px; /*pour descendre en dessous du menu */
+	height:250px;
+	
+}
+
+.nomSport
+{
+    text-align:center;
+    color:blue;
+    
+}
+
+.imageSport
+{
+    height:100px;
+    width:100px;
+    margin: 0 50px;
+}
+
+.cellSport
+{
+    height:200px;
+    width:200px;
+}
+
