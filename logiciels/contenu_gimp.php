@@ -20,8 +20,6 @@
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
-
-
 <h2><a name="presentation">Présentation</a></h2>
     <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
 

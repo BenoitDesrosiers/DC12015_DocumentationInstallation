@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="../ressources/css/contenu.css">
 	<title><?php echo($titrePage) ?></title>
 </head>
+<script type="text/javascript" src="../ressources/scripts/remonter.js"></script>
 <body>
 		
 	<nav>
@@ -123,3 +124,4 @@
 	        </li>
 	    </ul>
 	</nav>
+	<a id="remonter" href="#"><img  alt="Remonter" src="../ressources/images/remonter.png"/></a>

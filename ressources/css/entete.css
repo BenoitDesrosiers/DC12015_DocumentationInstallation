@@ -102,3 +102,18 @@ nav h2 {
 .application>.description {
     text-align: justify;
 }
+
+#remonter {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+/*     padding: 0.25em; */
+    background-color: rgba(61,121,167,0.75);
+    border: 1px solid rgb(61,121,167);
+    border-radius: 4px;
+}
+
+#remonter>img {
+    display: block;
+    margin: 0.25em;
+}
