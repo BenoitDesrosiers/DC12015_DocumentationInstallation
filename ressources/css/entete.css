@@ -1,0 +1,104 @@
+/* menu en haut de la page */
+nav {
+    color: rgb(224,224,224);
+    vertical-align: middle;
+    background-color: rgb(61,121,167);
+}
+
+nav>ul {
+    display: table;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+
+/* element du menu */
+.categorie {
+    display: table-cell;
+    float: left;
+    padding: 0 16px;
+    margin: 0;
+    border-left: 1px solid rgb(110,164,203);
+    border-right: 1px solid rgb(110,164,203);
+}
+
+.categorie:first-of-type {
+    border-left: none;
+}
+
+.categorie:last-of-type {
+    border-right: none;
+}
+
+.categorie:hover {
+    color: #0B1720;
+    background-color: rgb(110,164,203);
+}
+
+/* pour ne pas avoir de transition d'un .menu-categorie a un autre */
+nav>ul:hover .menu-categorie{
+    opacity: 1;
+}
+
+/* menu deroulant, cache par defaut */
+.menu-categorie {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    top: -100%;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.75);
+    -webkit-transition: 0.375s ease opacity;
+    -moz-transition: 0.375s ease opacity;
+    -o-transition: 0.375s ease opacity;
+}
+
+/* menu deroulant affiche */
+.categorie:hover>.menu-categorie {
+    visibility: visible;
+    opacity: 1;
+    top: auto;
+}
+
+/* liste d'applications dans le menu deroulant */
+.menu-categorie>ul {
+    display: table;
+    margin: 0 auto;
+    padding: 0 0.5em;
+    background-color:rgb(110,164,203);
+}
+
+/* element final du menu */
+.application {
+    display: inline-block;
+    position: relative;
+    width: 150px;
+    margin: 1em 0.5em;
+    padding: 1em;
+    background-color: rgb(85,142,185);
+}
+
+nav h2 {
+    font-size:inherit;
+}
+
+/* icones */
+.application>img {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+
+.application>.titre {
+    text-align: right;
+    position: absolute;
+    right: 1em;
+    top: 0;
+    font-weight: bold;
+    max-width: 80px;
+}
+
+.application>.description {
+    text-align: justify;
+}
