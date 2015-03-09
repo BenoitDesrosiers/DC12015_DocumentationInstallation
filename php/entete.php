@@ -54,7 +54,7 @@
 	                </ul>
 	            </div>
 	        </li>
-	        <li class='categorie'><p>D&eacute;veloppement</p>
+	        <li class='categorie'><p>Développement</p>
 	            <div class='menu-categorie'>
 	                <ul>
 	                    <li class='application'>
@@ -75,14 +75,16 @@
 	                </ul>
 	            </div>
 	        </li>
-	        <li class='categorie'><p>Multim&eacute;dia</p>
+	        <li class='categorie'><p>Multimédia</p>
 	            <div class='menu-categorie'>
 	                <ul>
-	                    <li class='application'>
-	                        <img src='../ressources/images/icones/gimp.png' alt='Gimp'/>
-	                        <h2 class='titre'>Gimp</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
+                        <a href="../logiciels/gimp.php">
+                            <li class='application'>
+                                <img src='../ressources/images/icones/gimp.png' alt='Gimp'/>
+                                <h2 class='titre'>Gimp</h2>
+                                <p class='description'>Création et édition d'images matricielles</p>
+                            </li>
+	                    </a>
 	                    <li class='application'>
 	                        <img src='../ressources/images/icones/inkscape.png' alt='Inkscape'/>
 	                        <h2 class='titre'>Inkscape</h2>

@@ -1,5 +1,5 @@
 <?php
-	$titrePage = "Page de Contenu Demo";
+	$titrePage = "Guide d'installation de Gimp";
 	include '../php/entete.php';
 ?>
 
@@ -81,6 +81,6 @@
 
 </div>
 
-<?php 
+<?php
 	include '../php/pieddepage.php'
 ?>
