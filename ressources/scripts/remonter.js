@@ -8,10 +8,10 @@ window.onscroll = function () {
     var positionPage = window.scrollY;
 
     if (positionPage > hauteurFenetre) {
-        bouton.style.display = "visible";
-        bouton.style.opacity = "1";
+        bouton.style.visibility = "visible";
+        bouton.style.top = "0";
     } else {
-        bouton.style.display = "hidden";
-        bouton.style.opacity = "0";
+        bouton.style.visibility = "hidden";
+        bouton.style.top = "-1em";
     }
 };

@@ -105,15 +105,20 @@ nav h2 {
 
 #remonter {
     position: fixed;
-    bottom: 1em;
+    visibility: hidden;
+/*     opacity: 0; */
+    top: -1em;
     right: 1em;
-/*     padding: 0.25em; */
     background-color: rgba(61,121,167,0.75);
     border: 1px solid rgb(61,121,167);
-    border-radius: 4px;
+    border-radius: 0 0 4px 4px;
+    border-top: none;
+    -webkit-transition: 0.375s ease top;
+    -moz-transition: 0.375s ease top;
+    -o-transition: 0.375s ease top;
 }
 
 #remonter>img {
     display: block;
-    margin: 0.25em;
+    margin: 0.25em 0.5em;
 }
