@@ -59,3 +59,10 @@
     font-weight: inherit;
     border-bottom: 1px solid rgb(216,235,248);
 }
+
+.terminal {
+    font-family: "Consolas", Monospace !important;
+    padding: 1em;
+    background-color: black;
+    color: white;
+}
