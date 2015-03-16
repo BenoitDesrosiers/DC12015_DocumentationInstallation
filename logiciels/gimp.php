@@ -82,5 +82,5 @@
 </div>
 
 <?php
-	include '/DC12015_DocumentationInstallation/php/pieddepage.php'
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/pieddepage.php');
 ?>

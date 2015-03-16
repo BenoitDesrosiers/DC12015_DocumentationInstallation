@@ -5,7 +5,7 @@
 
 <div class='contenu'>
 
-<h1>Guide d'installation de GIMP<h1>
+<h1>Guide d'installation d'Android SDK<h1>
 
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
@@ -82,5 +82,5 @@
 </div>
 
 <?php
-	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/pieddepage.php');
+	include '/DC12015_DocumentationInstallation/php/pieddepage.php'
 ?>
