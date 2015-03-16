@@ -1,9 +1,9 @@
 <?php
 	$titrePage = "Le titre de la page";
-	include '/php/entete.php';
+	include './php/entete.php';
 ?>
 
-    <div id="zoneContenu">
+    <div class="contenu">
 			
 		<h2 class="nomProgrammes" id="programme1"><a href="./pageContenuDemo.php">Programme 1</a></h2>
 			<h3>Description</h3>
@@ -35,8 +35,16 @@ Durant cette période, ils participeront à l'analyse, la conception, et la prog
 Ils auront l'occasion de vivre une expérience professionnelle enrichissant sur un plan individuel et social tout en ayant la chance d'acquérir des connaissances s'ajoutant à celles qu'ils ont déjà acquises lors de leur DEC en informatique. 
 Un des buts du stage est de permettre à l'étudiant de compléter sa formation en observant des professionnels du milieu afin de distinguer les intervenants, leurs rôles, leurs responsabilités et de cerner le nivau de communication à adopter avec ses pairs.</p>	
 		
+		<h2 class="nomProgrammes"><a href="./logiciels/audacity.php">Audacity</a></h2>
+			<h3>Description</h3>
+				
+				<p>Logiciel libre, gratuit et multi-plateforme permetant de créer et de modifier des fichiers audio. Il propose de nombreuses fonctions permettant d'ajouter des effets sonores ainsi qu'enregistrer ses propres sons. De plus, il permet de convertir ses fichiers audio en plusieurs formats couramment utilisés dans l'industrie. </p>
+
+
+				
+		
 	</div>
 
 <?php 
-	include '/php/pieddepage.php'
+	include './php/pieddepage.php'
 ?>
