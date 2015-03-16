@@ -1,9 +1,9 @@
 <?php
 	$titrePage = "Le titre de la page";
-	include '/php/entete.php';
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
-    <div id="zoneContenu">
+    <div class="contenu">
 			
 		<h2 class="nomProgrammes" id="programme1"><a href="./pageContenuDemo.php">Programme 1</a></h2>
 			<h3>Description</h3>
