@@ -116,12 +116,13 @@
 	                        <h2 class='titre'>Firefox</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
-	                    <li class='application'>
 						<a href="/DC12015_DocumentationInstallation/logiciels/filezilla.php">
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
-	                        <h2 class='titre'>FileZilla</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
+							<li class='application'>
+								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
+								<h2 class='titre'>FileZilla</h2>
+								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+							</li>
+						</a>
 	                </ul>
 	            </div>
 	        </li>

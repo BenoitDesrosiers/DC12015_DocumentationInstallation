@@ -1,6 +1,6 @@
 <?php
 	$titrePage = "Le titre de la page";
-	include './php/entete.php';
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
     <div class="contenu">
