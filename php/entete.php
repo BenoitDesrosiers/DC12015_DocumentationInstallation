@@ -116,14 +116,16 @@
 	                        <h2 class='titre'>Firefox</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
-	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
-	                        <h2 class='titre'>FileZilla</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
+						<a href="/DC12015_DocumentationInstallation/logiciels/filezilla.php">
+							<li class='application'>
+								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
+								<h2 class='titre'>FileZilla</h2>
+								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+							</li>
+						</a>
 	                </ul>
 	            </div>
 	        </li>
 	    </ul>
 	</nav>
-	<a id="remonter" href="#"><img  alt="Remonter" src="../ressources/images/remonter.png"/></a>
+	<a id="remonter" href="#"><img  alt="Remonter" src="/DC12015_DocumentationInstallation/ressources/images/remonter.png"/></a>
