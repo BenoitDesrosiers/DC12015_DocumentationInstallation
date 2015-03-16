@@ -57,6 +57,13 @@
 	        <li class='categorie'><p>Développement</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/visualParadigm.php">
+                            <li class='application'>
+                                <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Visual Paradigm.png' alt='Gimp'/>
+                                <h2 class='titre'>Visual Paradigm</h2>
+                                <p class='description'>Logiciel de conception et d'analyse graphique</p>
+                            </li>
+	                    </a>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/eiffelstudio.png' alt='EiffelStudio'/>
 	                        <h2 class='titre'>EiffelStudio</h2>
