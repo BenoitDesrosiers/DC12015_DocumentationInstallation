@@ -37,9 +37,9 @@
 	            <div class='menu-categorie'>
 	                <ul>
 	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/gimp.png' alt='Gimp'/>
-	                        <h2 class='titre'>Gimp</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/libreoffice.png' alt='Gimp'/>
+	                        <h2 class='titre'>LibreOffice</h2>
+	                        <p class='description'>La meilleure suite bureautique de l'univers</p>
 	                    </li>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/inkscape.png' alt='Inkscape'/>
