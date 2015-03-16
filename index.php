@@ -46,5 +46,5 @@ Un des buts du stage est de permettre à l'étudiant de compléter sa formation 
 	</div>
 
 <?php 
-	include './php/pieddepage.php'
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/pieddepage.php');
 ?>

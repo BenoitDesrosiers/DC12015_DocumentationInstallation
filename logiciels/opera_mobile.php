@@ -1,6 +1,6 @@
 <?php
 	$titrePage = "Guide d'installation de Gimp";
-	include '../php/entete.php';
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
 <div class='contenu'>
@@ -82,5 +82,5 @@
 </div>
 
 <?php
-	include '../php/pieddepage.php'
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/pieddepage.php');
 ?>
