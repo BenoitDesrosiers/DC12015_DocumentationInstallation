@@ -79,6 +79,13 @@
 	                        <h2 class='titre'>Audacity</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
+						<a href="/DC12015_DocumentationInstallation/logiciels/android.php">
+							<li class='application'>
+								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/android.png' alt='Audacity'/>
+								<h2 class='titre'>Android</h2>
+								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+							</li>
+						</a>
 						<li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Larp.png' alt='Larp'/>
 	                        <h2 class='titre'>Larp</h2>
