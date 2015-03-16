@@ -37,9 +37,9 @@
 	            <div class='menu-categorie'>
 	                <ul>
 	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/gimp.png' alt='Gimp'/>
-	                        <h2 class='titre'>Gimp</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/libreoffice.png' alt='Gimp'/>
+	                        <h2 class='titre'>LibreOffice</h2>
+	                        <p class='description'>La meilleure suite bureautique de l'univers</p>
 	                    </li>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/inkscape.png' alt='Inkscape'/>
@@ -57,6 +57,13 @@
 	        <li class='categorie'><p>Développement</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/visualParadigm.php">
+                            <li class='application'>
+                                <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Visual Paradigm.png' alt='Gimp'/>
+                                <h2 class='titre'>Visual Paradigm</h2>
+                                <p class='description'>Logiciel de conception et d'analyse graphique</p>
+                            </li>
+	                    </a>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/eiffelstudio.png' alt='EiffelStudio'/>
 	                        <h2 class='titre'>EiffelStudio</h2>
@@ -79,6 +86,16 @@
 								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 							</li>
 						</a>
+						<li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Larp.png' alt='Larp'/>
+	                        <h2 class='titre'>Larp</h2>
+	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                    </li>
+						<li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Python.png' alt='Python'/>
+	                        <h2 class='titre'>Python</h2>
+	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                    </li>	                    
 	                </ul>
 	            </div>
 	        </li>
@@ -129,6 +146,12 @@
 								<h2 class='titre'>FileZilla</h2>
 								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 							</li>
+							<li class='application'>
+							<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Opera Mobile.png' alt='Opera Mobile'/>
+	                        <h2 class='titre'>Opera Mobile</h2>
+	                        <p class='description'>Opera Mobile est un Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                    </li>
 						</a>
 	                </ul>
 	            </div>
