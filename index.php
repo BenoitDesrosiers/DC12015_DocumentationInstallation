@@ -1,6 +1,6 @@
 <?php
 	$titrePage = "Le titre de la page";
-	include 'entete.php';
+	include '/php/entete.php';
 ?>
 
     <div id="zoneContenu">
@@ -38,5 +38,5 @@ Un des buts du stage est de permettre à l'étudiant de compléter sa formation 
 	</div>
 
 <?php 
-	include 'pieddepage.php'
+	include '/php/pieddepage.php'
 ?>

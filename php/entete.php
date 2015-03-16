@@ -3,8 +3,8 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
-	<link rel="stylesheet" href="../ressources/css/entete.css">
-	<link rel="stylesheet" href="../ressources/css/contenu.css">
+	<link rel="stylesheet" href="/DC12015_DocumentationInstallation/ressources/css/entete.css">
+	<link rel="stylesheet" href="/DC12015_DocumentationInstallation/ressources/css/contenu.css">
 	<title><?php echo($titrePage) ?></title>
 </head>
 <script type="text/javascript" src="../ressources/scripts/remonter.js"></script>
