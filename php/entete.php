@@ -17,13 +17,13 @@
 	                <ul>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Sqlite.png' alt='SQLite'/>
-	                        <h2 class='titre'>SQLite</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <h2 class='titre'>SQLite3</h2>
+	                        <p class='description'>Petit Rapide Fiable. Choisissez ne importe quel trois.</p>
 	                    </li>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/SQLite-studio.png' alt='SQLite Studio'/>
 	                        <h2 class='titre'>SQLite Studio</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>SQLiteStudio est un gestionnaire de base de données SQLite</p>
 	                    </li>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
