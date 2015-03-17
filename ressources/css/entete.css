@@ -1,3 +1,15 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(216,235,248);
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
 /* menu en haut de la page */
 nav {
     color: rgb(224,224,224);
