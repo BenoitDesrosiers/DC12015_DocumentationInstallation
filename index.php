@@ -39,7 +39,11 @@ Un des buts du stage est de permettre à l'étudiant de compléter sa formation 
 			<h3>Description</h3>
 				
 				<p>Logiciel libre, gratuit et multi-plateforme permetant de créer et de modifier des fichiers audio. Il propose de nombreuses fonctions permettant d'ajouter des effets sonores ainsi qu'enregistrer ses propres sons. De plus, il permet de convertir ses fichiers audio en plusieurs formats couramment utilisés dans l'industrie. </p>
-
+		
+		<h2 class="nomProgrammes"><a href="./logiciels/avs4you.php">Avs4You</a></h2>
+			<h3>Description</h3>
+				
+				<p>Suite de logiciels payante permettant de créer et de modifier des images, des vidéos ainsi que des fichiers audios. Pendant les cours, nous nous cncentrerons sur celui-ci: AvsVideo Editor</p>
 
 				
 		

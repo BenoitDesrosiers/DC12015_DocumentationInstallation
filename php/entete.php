@@ -125,11 +125,13 @@
 	                        <p class='description'>Enregistrement et modification de fichiers audio</p>
 	                    </li>
 						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/avs4you.php"
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/AVS.png' alt='Audacity'/>
 	                        <h2 class='titre'>AVS</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Enregistrement et modification de fichiers videos.</p>
 	                    </li>
+						</a>
 	                </ul>
 	            </div>
 	        </li>
