@@ -90,16 +90,20 @@
 								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 							</li>
 						</a>
-						<li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Larp.png' alt='Larp'/>
-	                        <h2 class='titre'>Larp</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
-						<li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Python.png' alt='Python'/>
-	                        <h2 class='titre'>Python</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>	                    
+						<a href="/DC12015_DocumentationInstallation/logiciels/larp.php">
+							<li class='application'>
+		                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Larp.png' alt='Larp'/>
+		                        <h2 class='titre'>Larp</h2>
+		                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+		                    </li>
+						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/python.php">
+							<li class='application'>
+		                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Python.png' alt='Python'/>
+		                        <h2 class='titre'>Python</h2>
+		                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+		                    </li>	  
+		                </a>                  
 	                </ul>
 	            </div>
 	        </li>
