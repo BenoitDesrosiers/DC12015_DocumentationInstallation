@@ -15,13 +15,13 @@
     <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
     <a href="#linux"><h2>Linux</h2></a>
     <a href="#linux-prealables"><h3>Préalables</h3></a>
-    <a href="#linux-telechargement"><h3>Téléchargement</h3></a>
-    <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>Larp (<i>Logiciel d'Algorithmes et de Résolution de Problèmes</i>), est un logiciel éducatif d'enseignement de l'algorithmique en programmation structurée en exploitant le pseudo-code et les organigrammes.</p>
+    <p>Larp (<i>Logiciel d'Algorithmes et de Résolution de Problèmes</i>), est un logiciel éducatif 
+    d'enseignement de l'algorithmique en programmation structurée en exploitant le pseudo-code et 
+    les organigrammes.</p>
  
 <h2><a name="windows">Windows</a></h2>
 
@@ -65,33 +65,15 @@
     <img alt="Sélection de la langue" src="../ressources/images/larp/larp-9.png"/>
     <p>Vous devriez pouvoir observer la barre de chargement suivante.</p>
     <img alt="Sélection de la langue" src="../ressources/images/larp/larp-10.png"/>
-    <p>Une fois terminé, la fenêtre suivante devrait apparaitre. Cliquer sur "Terminer" afin de finalisé l'installation.</p>
+    <p>Une fois terminé, la fenêtre suivante devrait apparaitre. Cliquer sur "Terminer" afin de finaliser l'installation.</p>
     <img alt="Sélection de la langue" src="../ressources/images/larp/larp-11.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>larp vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de larp:</p>
-    <ul>
-        <li>larp-data</li>
-        <li>libbabl</li>
-        <li>libgegl</li>
-        <li>liblarp2</li>
-        <li>libilmbase6</li>
-        <li>libmng1</li>
-        <li>libopenexr6</li>
-    </ul>
-<h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer larp est de passer par le gestionnaire de paquets de sa distribution.</p>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
-<h3><a name="linux-installation">Procédure d'installation</a></h3>
-
+    <p>VEUILLEZ NOTER QUE LARP A ÉTÉ CONCU POUR LES SYSTÈMES WINDOWS SEULEMENT</p>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
-        <li><a href="www.larp.org/">Site officiel de larp</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/larp">larp dans la documentation Ubuntu francophone</a></li>
+        <li><a href="http://larp.marcolavoie.ca/fr/default.htm">Site officiel de Larp</a></li>
 
 
 </div>
