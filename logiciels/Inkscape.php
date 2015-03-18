@@ -1,0 +1,83 @@
+<?php
+	$titrePage = "Guide d'installation de python";
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
+?>
+
+<div class='contenu'>
+
+<h1>Guide d'installation d' Inkscape<h1>
+
+<div id="table_des_matieres">
+    <a href="#presentation"><h2>Présentation</h2></a>
+    <a href="#windows"><h2>Windows</h2></a>
+    <a href="#windows-prealables"><h3>Préalables</h3></a>
+    <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
+    <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
+</div>
+
+<h2><a name="presentation">Présentation</a></h2>
+    <p>Inkscape est un logiciel de création et d'édition d'images vectorielles libre et gratuit.</p>
+
+<h2><a name="windows">Windows</a></h2>
+
+<h3><a name="windows-prealables">Préalables</a></h3>
+    <p>Espace disque dure: 184.2 Mo</p>
+    <p>Système d'exploitation: Windows 2000, Windows XP, Windows Vista, Windows 7 et 8</p>
+    <p>Mémoire vive: 512 Mo minimum</p>
+    <p>Processeur: Pentium IV ou équivalent minimum</p>
+
+<h3><a name="windows-telechargement">Téléchargement</a></h3>
+    <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://sourceforge.net/projects/inkscape/files/inkscape/0.48.5/Inkscape-0.48.5-1-win32.exe/download?use_mirror=iweb">cette page</a>.</p>
+    <p>Le téléchargement devrait démarrer de par lui-même.</p>
+
+<h3><a name="windows-installation">Procédure d'installation</a></h3>
+    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
+    <img alt="Sélection de la langue" src="../ressources/images/python/python-1.png"/>
+    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
+    <img alt="Installation standard ou personnalisée" src="../ressources/images/python/python-2.png"/>
+    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
+    <img alt="Accord de license" src="../ressources/images/python/python-3.png"/>
+    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
+    <img alt="Installation complète" src="../ressources/images/python/python-4.png"/>
+    <img alt="Installation minimale" src="../ressources/images/python/python-5.png"/>
+    <p>Sélectionner les types de fichiers d'image à ouvrir avec python par défaut, puis cliquer sur <i>Next</i>.</p>
+    <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
+    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
+    <img alt="Création de raccourcis" src="../ressources/images/python/python-7.png"/>
+    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
+    <img alt="Révision des paramètres" src="../ressources/images/python/python-8.png"/>
+    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
+    <img alt="Sélection de la langue" src="../ressources/images/python/python-9.png"/>
+    <img alt="Sélection de la langue" src="../ressources/images/python/python-10.png"/>
+
+<h2><a name="linux">Linux</a></h2>
+<h3><a name="linux-prealables">Préalables</a></h3>
+    <p>python vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
+    <p>Les packets suivants sont nécessaires au fonctionnement de python:</p>
+    <ul>
+        <li>python-data</li>
+        <li>libbabl</li>
+        <li>libgegl</li>
+        <li>libpython2</li>
+        <li>libilmbase6</li>
+        <li>libmng1</li>
+        <li>libopenexr6</li>
+    </ul>
+<h3><a name="linux-telechargement">Téléchargement</a></h3>
+    <p>La façon propre d'installer python est de passer par le gestionnaire de paquets de sa distribution.</p>
+    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
+    <p>Logithèque Ubuntu: ...<p>
+    <p>Terminal: ...<p>
+<h3><a name="linux-installation">Procédure d'installation</a></h3>
+
+<h2><a name="voir-aussi">Voir aussi:</a></h2>
+    <ul>
+        <li><a href="www.python.org/">Site officiel de python</a></li>
+        <li><a href="http://doc.ubuntu-fr.org/python">python dans la documentation Ubuntu francophone</a></li>
+
+
+</div>
+
+<?php
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/pieddepage.php');
+?>
