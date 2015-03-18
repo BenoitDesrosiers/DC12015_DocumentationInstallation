@@ -12,6 +12,9 @@
 		
 	<nav>
 	    <ul>
+			<li class='categorie' onclick="location.href='/DC12015_DocumentationInstallation/index.php';">
+				<img src='/DC12015_DocumentationInstallation/ressources/images/Index.png' alt='Index'/>
+			</li>
 	        <li class='categorie'><p>Bases de données</p>
 	            <div class='menu-categorie'>
 	                <ul>

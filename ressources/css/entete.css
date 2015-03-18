@@ -52,6 +52,11 @@ nav>ul {
     background-color: rgb(110,164,203);
 }
 
+.categorie>img {
+    max-width: 48px;
+    max-height: 48px;
+}
+
 /* pour ne pas avoir de transition d'un .menu-categorie a un autre */
 nav>ul:hover .menu-categorie{
     opacity: 1;
