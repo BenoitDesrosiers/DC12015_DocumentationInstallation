@@ -28,11 +28,6 @@
 	                        <h2 class='titre'>SQLite Studio</h2>
 	                        <p class='description'>SQLiteStudio est un gestionnaire de base de données SQLite</p>
 	                    </li>
-	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
-	                        <h2 class='titre'>FileZilla</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
 	                </ul>
 	            </div>
 	        </li>
@@ -44,24 +39,12 @@
 	                        <h2 class='titre'>LibreOffice</h2>
 	                        <p class='description'>La meilleure suite bureautique de l'univers</p>
 	                    </li>
-	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/inkscape.png' alt='Inkscape'/>
-	                        <h2 class='titre'>Inkscape</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
-						<a href="/DC12015_DocumentationInstallation/logiciels/audacity.php"
-	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/audacity.png' alt='Audacity'/>
-	                        <h2 class='titre'>Audacity</h2>
-	                        <p class='description'>Enregistrement et modification de fichiers audio</p>
-	                    </li>
-						</a>
 	                </ul>
 	            </div>
 	        </li>
-	        <li class='categorie'><p>Développement</p>
-	            <div class='menu-categorie'>
-	                <ul>
+	        <li class='categorie'><p>Conception</p>
+				<div class='menu-categorie'>
+					<ul>
 						<a href="/DC12015_DocumentationInstallation/logiciels/visualParadigm.php">
                             <li class='application'>
                                 <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Visual Paradigm.png' alt='Gimp'/>
@@ -69,6 +52,12 @@
                                 <p class='description'>Logiciel de conception et d'analyse graphique</p>
                             </li>
 	                    </a>
+					</ul>
+				</div>
+			</li>
+	        <li class='categorie'><p>Développement</p>
+	            <div class='menu-categorie'>
+	                <ul>
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/eiffelstudio.png' alt='EiffelStudio'/>
 	                        <h2 class='titre'>EiffelStudio</h2>
@@ -113,11 +102,13 @@
                                 <p class='description'>Création et édition d'images matricielles</p>
                             </li>
 	                    </a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/inkscape.php"
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/inkscape.png' alt='Inkscape'/>
 	                        <h2 class='titre'>Inkscape</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
+						</a>
 	                    <a href="/DC12015_DocumentationInstallation/logiciels/audacity.php"
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/audacity.png' alt='Audacity'/>
@@ -138,28 +129,33 @@
 	        <li class='categorie'><p>Web</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/chrome.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Chrome.png' alt='Chrome'/>
 	                        <h2 class='titre'>Chrome</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
+						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/firefox.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Firefox.png' alt='Firefox'/>
 	                        <h2 class='titre'>Firefox</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
+						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/filezilla.php">
 							<li class='application'>
 								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
 								<h2 class='titre'>FileZilla</h2>
 								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 							</li>
+						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
 							<li class='application'>
-							<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Opera Mobile.png' alt='Opera Mobile'/>
 	                        <h2 class='titre'>Opera Mobile</h2>
-	                        <p class='description'>Opera Mobile est un Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
+	                        <p class='description'>Opera Mobile est un </p>
+							</li>
 						</a>
 	                </ul>
 	            </div>
