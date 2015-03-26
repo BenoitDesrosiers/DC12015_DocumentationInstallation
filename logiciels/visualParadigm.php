@@ -1,5 +1,5 @@
 ﻿<?php
-	$titrePage = "Guide d'installation de Gimp";
+	$titrePage = "Guide d'installation de Visual Paradigm";
 	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 

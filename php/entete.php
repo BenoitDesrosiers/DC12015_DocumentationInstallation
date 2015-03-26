@@ -15,6 +15,26 @@
 			<li class='categorie' onclick="location.href='/DC12015_DocumentationInstallation/index.php';">
 				<img src='/DC12015_DocumentationInstallation/ressources/images/Index.png' alt='Index'/>
 			</li>
+			<li class='categorie'><p>Analyse et Conception</p>
+				<div class='menu-categorie'>
+					<ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/caseComplete.php">
+                            <li class='application'>
+                                <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Case Complete.png' alt='Gimp'/>
+                                <h2 class='titre'>Case Complete</h2>
+                                <p class='description'>Logiciel d'analyse graphique</p>
+                            </li>
+	                    </a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/visualParadigm.php">
+                            <li class='application'>
+                                <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Visual Paradigm.png' alt='Gimp'/>
+                                <h2 class='titre'>Visual Paradigm</h2>
+                                <p class='description'>Logiciel de conception et d'analyse graphique</p>
+                            </li>
+	                    </a>
+					</ul>
+				</div>
+			</li>
 	        <li class='categorie'><p>Bases de données</p>
 	            <div class='menu-categorie'>
 	                <ul>
@@ -42,19 +62,7 @@
 	                </ul>
 	            </div>
 	        </li>
-	        <li class='categorie'><p>Conception</p>
-				<div class='menu-categorie'>
-					<ul>
-						<a href="/DC12015_DocumentationInstallation/logiciels/visualParadigm.php">
-                            <li class='application'>
-                                <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Visual Paradigm.png' alt='Gimp'/>
-                                <h2 class='titre'>Visual Paradigm</h2>
-                                <p class='description'>Logiciel de conception et d'analyse graphique</p>
-                            </li>
-	                    </a>
-					</ul>
-				</div>
-			</li>
+	        
 	        <li class='categorie'><p>Développement</p>
 	            <div class='menu-categorie'>
 	                <ul>
