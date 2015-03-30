@@ -50,8 +50,8 @@
     <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
     <img alt="Révision des paramètres" src="../ressources/images/gimp/gimp-8.png"/>
     <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-9.png"/>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-10.png"/>
+    <img alt="Installation en cours" src="../ressources/images/gimp/gimp-9.png"/>
+    <img alt="Terminé" src="../ressources/images/gimp/gimp-10.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
@@ -67,11 +67,21 @@
         <li>libopenexr6</li>
     </ul>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution.</p>
+    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution. Les gestionnaires de paquets se chargent autant du téléchargement que de l'installation.</p>
+<h3><a name="linux-installation">Procédure d'installation</a></h3>
     <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
     <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
-<h3><a name="linux-installation">Procédure d'installation</a></h3>
+    <p>Terminal:<br/>Ouvrir un terminal. Il suffit de taper «Terminal» dans la barre de recherche du Dash (la première icône en haut de la barre à gauche de l'écran) et cliquer sur l'icône correspondante dans les résultats.</p>
+    <img alt="Ouvrir le Dash" src="../ressources/images/gimp/dash.png"/>
+    <img alt="Taper «Terminal»" src="../ressources/images/gimp/terminal.png"/>
+    <p>Dans la fenêtre qui s'ouvre, entrer la commande suivante:<p>
+    <p class="terminal">sudo apt-get install gimp</p>
+    <p>Réviser les changements affichés et confirmer. Le mot de passe de l'utilisateur «root» sera demandé.</p>
+    <img alt="Révision d'apt-get" src="../ressources/images/gimp/aptget.png"/>
+    <p>Le gestionnaire de paquets va maintenant télécharger et installer tous les paquets nécessaires.</p>
+    <img alt="Apt-get installe les paquets nécessaires" src="../ressources/images/gimp/installation.png"/>
+    <p>À la fin du processus, Gimp est prêt à être utilisé. Il peut être trouvé dans le menu Dash ou lancé par ligne de commande.</p>
+    <img alt="Gimp est installé" src="../ressources/images/gimp/post.png"/>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
