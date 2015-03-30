@@ -113,10 +113,13 @@
                                 <p class='description'>Création et édition d'images matricielles</p>
                             </li>
 	                    </a>
+			    <a href="/DC12015_DocumentationInstallation/logiciels/Inkscape.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/inkscape.png' alt='Inkscape'/>
 	                        <h2 class='titre'>Inkscape</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Logiciel de dessin vectoriel</p>
+			    </a>
+				
 	                    </li>
 	                    <a href="/DC12015_DocumentationInstallation/logiciels/audacity.php"
 	                    <li class='application'>
