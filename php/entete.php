@@ -110,11 +110,14 @@
                                 <p class='description'>Création et édition d'images matricielles</p>
                             </li>
 	                    </a>
-						<a href="/DC12015_DocumentationInstallation/logiciels/inkscape.php"
+			    <a href="/DC12015_DocumentationInstallation/logiciels/Inkscape.php">
+
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/inkscape.png' alt='Inkscape'/>
 	                        <h2 class='titre'>Inkscape</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Logiciel de dessin vectoriel</p>
+			   
+				
 	                    </li>
 						</a>
 	                    <a href="/DC12015_DocumentationInstallation/logiciels/audacity.php"
@@ -161,8 +164,8 @@
 						<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
 							<li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Opera Mobile.png' alt='Opera Mobile'/>
-	                        <h2 class='titre'>Opera Mobile</h2>
-	                        <p class='description'>Opera Mobile est un </p>
+	                        <h2 class='titre'>Opera Mobile Emulator</h2>
+	                        <p class='description'>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes.</p>
 							</li>
 						</a>
 	                </ul>
