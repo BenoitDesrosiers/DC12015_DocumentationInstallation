@@ -161,8 +161,8 @@
 						<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
 							<li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Opera Mobile.png' alt='Opera Mobile'/>
-	                        <h2 class='titre'>Opera Mobile</h2>
-	                        <p class='description'>Opera Mobile est un </p>
+	                        <h2 class='titre'>Opera Mobile Emulator</h2>
+	                        <p class='description'>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes.</p>
 							</li>
 						</a>
 	                </ul>

@@ -45,6 +45,11 @@ Un des buts du stage est de permettre à l'étudiant de compléter sa formation 
 				
 				<p>Suite de logiciels payante permettant de créer et de modifier des images, des vidéos ainsi que des fichiers audios. Pendant les cours, nous nous cncentrerons sur celui-ci: AvsVideo Editor</p>
 
+		<h2 class="nomProgrammes"><a href="./logiciels/opera_mobile.php">Opera Mobile Emulator</a></h2>
+			<h3>Description</h3>
+				
+				<p>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes qui facilite le développement d'application mobile.</p>
+
 				
 		
 	</div>

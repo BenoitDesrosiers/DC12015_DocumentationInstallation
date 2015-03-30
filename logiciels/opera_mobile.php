@@ -1,11 +1,11 @@
 <?php
-	$titrePage = "Guide d'installation de Gimp";
+	$titrePage = "Guide d'installation d'Opera Mobile Emulator";
 	include '../php/entete.php';
 ?>
 
 <div class='contenu'>
 
-<h1>Guide d'installation de Opera Mobile<h1>
+<h1>Guide d'installation d'Opera Mobile Emulator<h1>
 
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
@@ -20,7 +20,7 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>Opera Mobile Emulator est un emulateur de téléphones intelligents et de tablettes qui facilite le développement d'application mobile.</p>
+    <p>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes qui facilite le développement d'application mobile.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
@@ -52,7 +52,7 @@
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
 	<p>Un lien de téléchargement peut être trouvé sur <a href="http://www.opera.com/developer/mobile-emulator">le site d'Opera</a>.</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
-	Décompresser le fichier .gz et lancer l'exécutable.
+	<p>Décompressez le fichier .gz et lancez l'exécutable.</p>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="http://www.opera.com/fr/developer/mobile-emulator">Site officiel d'Opera Mobile Emulator</a></li>
