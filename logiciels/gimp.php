@@ -69,9 +69,9 @@
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
     <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution. Les gestionnaires de paquets se chargent autant du téléchargement que de l'installation.</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal:<br/>Ouvrir un terminal. Il suffit de taper «Terminal» dans la barre de recherche du Dash (la première icône en haut de la barre à gauche de l'écran) et cliquer sur l'icône correspondante dans les résultats.</p>
+    <p>Dans le cas d'Ubuntu, on peut passer par un terminal ou par la Logithèque Ubuntu.</p>
+    <h4>Terminal</h4>
+    <p>Ouvrir un terminal. Il suffit de taper «Terminal» dans la barre de recherche du Dash (la première icône en haut de la barre à gauche de l'écran) et cliquer sur l'icône correspondante dans les résultats.</p>
     <img alt="Ouvrir le Dash" src="../ressources/images/gimp/dash.png"/>
     <img alt="Taper «Terminal»" src="../ressources/images/gimp/terminal.png"/>
     <p>Dans la fenêtre qui s'ouvre, entrer la commande suivante:<p>
@@ -80,6 +80,15 @@
     <img alt="Révision d'apt-get" src="../ressources/images/gimp/aptget.png"/>
     <p>Le gestionnaire de paquets va maintenant télécharger et installer tous les paquets nécessaires.</p>
     <img alt="Apt-get installe les paquets nécessaires" src="../ressources/images/gimp/installation.png"/>
+    <h4>Logithèque Ubuntu</h4>
+    <p>Ouvrir l'application Logithèque Ubuntu dans la barre de lancement à gauche.</p>
+    <img alt="Ouvrir la Logithèque Ubuntu" src="../ressources/images/gimp/ouvrir-logitheque.png"/>
+    <img alt="Logithèque Ubuntu" src="../ressources/images/gimp/logitheque.png"/>
+    <p>Taper "gimp" dans la boîte de recherche de la Logithèque et sélectionner l'application correspondante, qui devrait être le premier résultat.</p>
+    <img alt="Chercher Gimp dans la logiquèque" src="../ressources/images/gimp/logitheque-gimp.png"/>
+    <p>Cliquer sur le bouton Install. Une icône s'ajoutera à la barre de lancement et indiquera la progression du téléchargement.</p>
+    <img alt="Ouvrir la Logithèque Ubuntu" src="../ressources/images/gimp/progres-installation.png"/>
+    <h4>Terminé</h4>
     <p>À la fin du processus, Gimp est prêt à être utilisé. Il peut être trouvé dans le menu Dash ou lancé par ligne de commande.</p>
     <img alt="Gimp est installé" src="../ressources/images/gimp/post.png"/>
 
