@@ -41,6 +41,7 @@ nav>ul {
 
 .categorie:first-of-type {
     border-left: none;
+	cursor: pointer;
 }
 
 .categorie:last-of-type {
@@ -53,6 +54,7 @@ nav>ul {
 }
 
 .categorie>img {
+	top:20px;
     max-width: 48px;
     max-height: 48px;
 }
@@ -133,7 +135,7 @@ nav h2 {
     box-shadow: 0 2px 1px rgb(61,121,167);
 }
 
-#remonter {
+/*#remonter {
     position: fixed;
     visibility: hidden;
     top: -1em;
@@ -150,4 +152,4 @@ nav h2 {
 #remonter>img {
     display: block;
     margin: 0.25em 0.5em;
-}
+}*/

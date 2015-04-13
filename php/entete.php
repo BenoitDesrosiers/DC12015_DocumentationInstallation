@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="/DC12015_DocumentationInstallation/ressources/css/contenu.css">
 	<title><?php echo($titrePage) ?></title>
 </head>
-<script type="text/javascript" src="../ressources/scripts/remonter.js"></script>
+<!--<script type="text/javascript" src="../ressources/scripts/remonter.js"></script> Laisser dans le code en cas de changements -->
 <body>
 		
 	<nav>
@@ -166,4 +166,4 @@
 	        </li>
 	    </ul>
 	</nav>
-	<a id="remonter" href="#"><img  alt="Remonter" src="/DC12015_DocumentationInstallation/ressources/images/remonter.png"/></a>
+	<!--<a id="remonter" href="#"><img  alt="Remonter" src="/DC12015_DocumentationInstallation/ressources/images/remonter.png"/></a>-->
