@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,15 +37,18 @@
 	        <li class='categorie'><p>Bases de données</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/sqlite3.php">
 	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Sqlite.png' alt='SQLite'/>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Sqlite.png' alt='SQLite3'/>
 	                        <h2 class='titre'>SQLite3</h2>
-	                        <p class='description'>Petit Rapide Fiable. Choisissez ne importe quel trois.</p>
+	                        <p class='description'>Gestionaire de basse de donnée.</p>
 	                    </li>
+						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/sqlite_studio.php">
 	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/SQLite-studio.png' alt='SQLite Studio'/>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/SQLite-studio.png' alt='SQLite_Studio'/>
 	                        <h2 class='titre'>SQLite Studio</h2>
-	                        <p class='description'>SQLiteStudio est un gestionnaire de base de données SQLite</p>
+	                        <p class='description'>SQLiteStudio est un gestionnaire de base de données SQLite en mode graphique.</p>
 	                    </li>
 	                </ul>
 	            </div>
