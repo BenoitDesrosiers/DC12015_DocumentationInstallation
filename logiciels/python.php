@@ -21,37 +21,32 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>python (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>python</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>python (Nom inspiré de la série télévisée "Monty Python") est un language de programmation interprété orienté objet.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de python nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
+    <p>Puisqu'il existe de nombreuses version de Python, il existe plusieurs interpréteur différent qui eux possède des compatibitités variées d'un système à l'autre.</p>
+    <p>L'installation de python 3.4.3 requiert Windows XP ou plus récent.</p>
     <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
     <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.python.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.python.org/pub/python/v2.8/windows/python-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
+    <p>En date du 15 Avril 2015, la version la plus récente est la 3.4.3. et 2.7.9. Ces deux version possède des caractéristiques différentes (principalement la syntaxe) mais la 3.4.3 est la plus développée jusqu'à présent.</p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
+    <p>Une fois l'exécutable téléchargé, lancez-le. Il est possible que votre système d'exploitation affiche une fenêtre vous demandant la permission d'administrateur, acceptez.</p>
     <img alt="Sélection de la langue" src="../ressources/images/python/python-1.png"/>
-    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
+    <p>La prochaine fenêtre vous demandera pour quelles sessions vous souhaitez installer l'interpréteur Python, selectionné selon votre besoin et cliquez sur "Next >"</p>
     <img alt="Installation standard ou personnalisée" src="../ressources/images/python/python-2.png"/>
-    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
+    <p>Ensuite, selectionnez le dossier dans lequel vous souhaitez installer l'interpréteur lui-même et autres dossiers associés, puis cliquer sur <i>"Next <"</i>.</p>
     <img alt="Accord de license" src="../ressources/images/python/python-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
+    <p>La prochaine fenêtre vous laissera choisir les extentions que vous pouvez ajouter ou retirer à l'installation. Par défault, il est conseillé de seulement cliquer sur "Next >" et les extentions de base seront installées (pip, par exemple, peut s'avéré très utile).</p>
     <img alt="Installation complète" src="../ressources/images/python/python-4.png"/>
+    <p>L'installateur commencera immédiatement l'installation et vous devriez avoir la fenêtre de chargement suivante : </p>
     <img alt="Installation minimale" src="../ressources/images/python/python-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à ouvrir avec python par défaut, puis cliquer sur <i>Next</i>.</p>
+    <p>Une fois terminé, vous n'avez qu'à cliquer sur le bouton "Finish" et l'installation sera complétée.</p>
     <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/python/python-7.png"/>
-    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
-    <img alt="Révision des paramètres" src="../ressources/images/python/python-8.png"/>
-    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/python/python-9.png"/>
-    <img alt="Sélection de la langue" src="../ressources/images/python/python-10.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
@@ -77,7 +72,6 @@
     <ul>
         <li><a href="www.python.org/">Site officiel de python</a></li>
         <li><a href="http://doc.ubuntu-fr.org/python">python dans la documentation Ubuntu francophone</a></li>
-
 
 </div>
 
