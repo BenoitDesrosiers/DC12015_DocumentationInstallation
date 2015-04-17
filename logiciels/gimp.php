@@ -43,9 +43,9 @@
     <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
     <img alt="Installation complète" src="../ressources/images/gimp/gimp-4.png"/>
     <img alt="Installation minimale" src="../ressources/images/gimp/gimp-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à ouvrir avec GIMP par défaut, puis cliquer sur <i>Next</i>.</p>
+    <p>Sélectionner les types de fichiers d'image à associer à Gimp. Ces formats d'image seront ouvert directement dans Gimp lorsque lancés depuis l'explorateur de fichier. Il est conseillé de conserver l'association des fichiers <i>.xcf</i> puisque ceux-ci sont utilisés par Gimp pour enregistrer les fichiers de travail. Cliquer sur <i>Next</i> une fois les choix effectués.</p>
     <img alt="Association de fichiers" src="../ressources/images/gimp/gimp-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
+    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches. Cela permet de trouver et de lancer plus rapidement Gimp, mais cela n'est pas nécessaire.</p>
     <img alt="Création de raccourcis" src="../ressources/images/gimp/gimp-7.png"/>
     <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
     <img alt="Révision des paramètres" src="../ressources/images/gimp/gimp-8.png"/>
@@ -94,8 +94,9 @@
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
-        <li><a href="www.gimp.org/">Site officiel de GIMP</a></li>
+        <li><a href="http://www.gimp.org/">Site officiel de GIMP</a></li>
         <li><a href="http://doc.ubuntu-fr.org/gimp">GIMP dans la documentation Ubuntu francophone</a></li>
+    </ul>
 
 
 </div>
