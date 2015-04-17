@@ -92,6 +92,13 @@
 		                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 		                    </li>
 						</a>
+                        <a href="/DC12015_DocumentationInstallation/logiciels/msysgit.php">
+                            <li class='application'>
+                                <img src='/DC12015_DocumentationInstallation/ressources/images/icones/msysgit.png' alt='msysGit'/>
+                                <h2 class='titre'>msysGit</h2>
+                                <p class='description'>Environnement de développement du logiciel <i>Git pour Windows</i></p>
+                            </li>
+                        </a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/python.php">
 							<li class='application'>
 		                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Python.png' alt='Python'/>
