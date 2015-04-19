@@ -17,11 +17,15 @@
     <a href="#linux-prealables"><h3>Préalables</h3></a>
     <a href="#linux-telechargement"><h3>Téléchargement</h3></a>
     <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
+    <a href="#mac"><h2>Mac OS X</h2></a>
+    <a href="#mac-prealables"><h3>Préalables</h3></a>
+    <a href="#mac-telechargement"><h3>Téléchargement</h3></a>
+    <a href="#mac-installation"><h3>Procédure d'installation</h3></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>python (Nom inspiré de la série télévisée "Monty Python") est un language de programmation interprété orienté objet.</p>
+    <p>python (Nom inspiré de la série télévisée "Monty Python") est un language de programmation interprété orienté objet. Ce Guide d'installation démontrera comment installer l'interpréteur de ce language sur différent système d'exploitation.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
@@ -50,8 +54,8 @@
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>python vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de python:</p>
+    <p>python est souvent pré-inclus par défaut sur plusieurs distributions de Linux. Dans ce cas, il n'est pas nécessaire de l'installer.</p>
+    <p>Les packets suivants sont nécessaires au fonctionnement de python :</p>
     <ul>
         <li>python-data</li>
         <li>libbabl</li>
@@ -67,6 +71,40 @@
     <p>Logithèque Ubuntu: ...<p>
     <p>Terminal: ...<p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
+	<p>Premièrement, ouvrez une console système.</p>
+	<p>Entrez ensuite la ligne suivante : "sudo apt-get pythonX.X" (Remplacer X.X par la version souhaitez, '3.4' par exemple).</p>	
+    <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
+    <p>Si le système est protegé par un compte administrateur, la console risque de vous demander d'entrer le mot de passe afin de continuer.</p>
+    <p>Une série de ligne devrait apparaitre à l'écran, celle-ci démontre que l'installation est en cours.</p>
+    <p>Lorsque la console aura terminé l'installation, vous devriez pouvoir entrez de nouvelles lignes de commande dans la console.</p>
+    <p>Vous devriez également pouvoir observer les lignes de commande suivante : "...."</p>
+
+<h2><a name="mac">Mac OS X</a></h2>
+<h3><a name="mac-prealables">Préalables</a></h3>
+    <p>python est souvent pré-inclus par défaut sur plusieurs distributions de Linux. Dans ce cas, il n'est pas nécessaire de l'installer.</p>
+    <p>Les packets suivants sont nécessaires au fonctionnement de python :</p>
+    <ul>
+        <li>python-data</li>
+        <li>libbabl</li>
+        <li>libgegl</li>
+        <li>libpython2</li>
+        <li>libilmbase6</li>
+        <li>libmng1</li>
+        <li>libopenexr6</li>
+    </ul>
+<h3><a name="mac-telechargement">Téléchargement</a></h3>
+    <p>La façon propre d'installer python est de passer par le gestionnaire de paquets de sa distribution.</p>
+    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
+    <p>Logithèque Ubuntu: ...<p>
+    <p>Terminal: ...<p>
+<h3><a name="mac-installation">Procédure d'installation</a></h3>
+	<p>Premièrement, ouvrez une console système.</p>
+	<p>Entrez ensuite la ligne suivante : "sudo apt-get pythonX.X" (Remplacer X.X par la version souhaitez, '3.4' par exemple).</p>	
+    <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
+    <p>Si le système est protegé par un compte administrateur, la console risque de vous demander d'entrer le mot de passe afin de continuer.</p>
+    <p>Une série de ligne devrait apparaitre à l'écran, celle-ci démontre que l'installation est en cours.</p>
+    <p>Lorsque la console aura terminé l'installation, vous devriez pouvoir entrez de nouvelles lignes de commande dans la console.</p>
+    <p>Vous devriez également pouvoir observer les lignes de commande suivante : "...."</p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
