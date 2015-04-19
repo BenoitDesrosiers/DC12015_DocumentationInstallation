@@ -17,6 +17,7 @@
     <a href="#linux-prealables"><h3>Préalables</h3></a>
     <a href="#linux-telechargement"><h3>Téléchargement</h3></a>
     <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
+    <a href="#post-installation"><h2>Après l'installation</h2></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
@@ -90,7 +91,22 @@
     <img alt="Ouvrir la Logithèque Ubuntu" src="../ressources/images/gimp/progres-installation.png"/>
     <h4>Terminé</h4>
     <p>À la fin du processus, Gimp est prêt à être utilisé. Il peut être trouvé dans le menu Dash ou lancé par ligne de commande.</p>
+
     <img alt="Gimp est installé" src="../ressources/images/gimp/post.png"/>
+
+<h3><a name="post-installation">Après l'installation</a></h3>
+    <p>Une fois l'installation terminée, ouvrir Gimp. Sélectionner ensuite la fonction <i>Nouvelle image</i> dans le menu <i>Fichier</i></p>
+    <img alt="Fenêtre de Gimp vide" src="../ressources/images/gimp/tuto-1.png"/>
+    <p>Une fenêtre permettant de choisir les attributs et dimensions de la nouvelle image s'ouvrira. Ne vous en préoccupez pas pour tout de suite, contentez-vous de cliquer sur Valider.</p>
+    <img alt="Menu nouvelle image" src="../ressources/images/gimp/tuto-2.png"/>
+    <p>La nouvelle image sera maintenant ouverte. Choisissez maintenant l'outil <i>Pinceau</i> dans la boîte d'outils et servez-vous-en pour dessiner quelque chose dans l'image.</p>
+    <img alt="Outil pinceau" src="../ressources/images/gimp/tuto-5.png"/>
+    <img alt="Dessin à main levée" src="../ressources/images/gimp/tuto-8.png"/>
+    <p>Essayez maintenant d'exporter le résultat. Dans le menu <i>Fichier</i>, cliquez sur l'entrée <i>Export</i>.</p>
+    <img alt="Fichier>Export..." src="../ressources/images/gimp/tuto-11.png"/>
+    <p>Une fenêtre permettant de naviguer dans le système de fichier s'ouvrira. Choisissez un dossier auquel vous avez accès en écriture et inscrire un nom se terminant par <i>.png</i> dans le champ approprié, par exemple. Cliquer ensuite sur le bouton <i>Exporter</i>.</p>
+    <img alt="Menu exportation" src="../ressources/images/gimp/tuto-12.png"/>
+    <p>Une fenêtre présentant les options propres au format PNG s'ouvrira. Appuyez simplement sur Ok.</p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
