@@ -98,14 +98,8 @@
     <p>Logithèque Ubuntu: ...<p>
     <p>Terminal: ...<p>
 <h3><a name="mac-installation">Procédure d'installation</a></h3>
-	<p>Premièrement, ouvrez une console système.</p>
-	<p>Entrez ensuite la ligne suivante : "sudo apt-get pythonX.X" (Remplacer X.X par la version souhaitez, '3.4' par exemple).</p>	
+	<p>Une fois l'exécutable d'installation python installé, exécutez-le.</p>
     <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
-    <p>Si le système est protegé par un compte administrateur, la console risque de vous demander d'entrer le mot de passe afin de continuer.</p>
-    <p>Une série de ligne devrait apparaitre à l'écran, celle-ci démontre que l'installation est en cours.</p>
-    <p>Lorsque la console aura terminé l'installation, vous devriez pouvoir entrez de nouvelles lignes de commande dans la console.</p>
-    <p>Vous devriez également pouvoir observer les lignes de commande suivante : "...."</p>
-
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="www.python.org/">Site officiel de python</a></li>
