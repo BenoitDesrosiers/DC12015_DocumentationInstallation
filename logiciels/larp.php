@@ -15,6 +15,7 @@
     <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
     <a href="#linux"><h2>Linux</h2></a>
     <a href="#linux-prealables"><h3>Préalables</h3></a>
+    <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
@@ -43,34 +44,39 @@
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
     <p>Une fois l'exécutable téléchargé, exécuter celui-ci.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/larp/larp-1.png"/>
-    <p>La fenêtre de présentation apparaitera, cliquer sur suivant afin de poursuivre l'installation. 
+    <img alt="lancer-executable" src="../ressources/images/larp/larp-1.png"/>
+    <p><a name="choix"><a>La fenêtre de présentation apparaitera, cliquer sur suivant afin de poursuivre l'installation. 
     Ensuite, vous verrez là fenêtre suivante dans laquelle vous choisirez la langue du programme.</p>
-    <img alt="Installation standard ou personnalisée" src="../ressources/images/larp/larp-2.png"/>
+    <img alt="choix" src="../ressources/images/larp/larp-2.png"/>
     <p>Veuillez lire attentivement le contrat de license et ensuite, selectionner l'option illustrant si vous comprenez et acceptez les termes émis.</p>
-    <img alt="Accord de license" src="../ressources/images/larp/larp-3.png"/>
+    <img alt="accord-de-license" src="../ressources/images/larp/larp-3.png"/>
     <p>La page suivante vous laissera choisir la version souhaitez, dans ce cas-ci, vous pouvez simplement cliquer sur "suivant".</p>
-    <img alt="Installation complète" src="../ressources/images/larp/larp-4.png"/>
+    <img alt="version" src="../ressources/images/larp/larp-4.png"/>
     <p>Veuillez lire les informations émises sur la fenêtre suivante et une fois cela fait, cliquer sur suivant.</p>
-    <img alt="Association de fichiers" src="../ressources/images/larp/larp-5.png"/>
+    <img alt="informations" src="../ressources/images/larp/larp-5.png"/>
     <p>En cliquant sur le bouton "parcourir" le programme vous laisse selectionner une destination d'installation possèdant un espace libre d'au moins 0.7 mégabytes, tel que demandé sur la fenêtre.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/larp/larp-6.png"/>
+    <img alt="dossier-installation" src="../ressources/images/larp/larp-6.png"/>
     <p>La page suivante vous permet de selectionner où vous souhaitez mettre un raccourci vers le programme suite à l'installation. Une fois selectionné, cliquer sur "suivant".</p>
-    <img alt="Révision des paramètres" src="../ressources/images/larp/larp-7.png"/>
+    <img alt="raccourci" src="../ressources/images/larp/larp-7.png"/>
     <p>Les options de tâches supplémentaires affichés vous permet de selectionner si vous souhaitez 
     ou non mettre un icone sur le bureau et sur la barre de lancement rapide, pour le reste, laissez 
     les autres tâches selectionné et cliquer sur "suivant".</p>
-    <img alt="Sélection de la langue" src="../ressources/images/larp/larp-8.png"/>
+    <img alt="raccourci-bureau" src="../ressources/images/larp/larp-8.png"/>
     <p>Cliquer ensuite sur "installer" afin de démarrer la procédure d'installation.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/larp/larp-9.png"/>
+    <img alt="installer" src="../ressources/images/larp/larp-9.png"/>
     <p>Vous devriez pouvoir observer la barre de chargement suivante.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/larp/larp-10.png"/>
+    <img alt="chargement" src="../ressources/images/larp/larp-10.png"/>
     <p>Une fois terminé, la fenêtre suivante devrait apparaitre. Cliquer sur "Terminer" afin de finaliser l'installation.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/larp/larp-11.png"/>
+    <img alt="installation-complete" src="../ressources/images/larp/larp-11.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>VEUILLEZ NOTER QUE LARP A ÉTÉ CONCU POUR LES SYSTÈMES WINDOWS SEULEMENT</p>
+    <p>Veuillez noter que LARP à été développé pour les systèmes Windows seulement. Par contre, il est possible de l'installer à l'aide des logiciels comme Wine (L'installation de Wine n'est pas décrite dans ce guide).</p>
+<h3><a name="linux-installation">Procédure d'installation</a></h3>
+    <p>Une fois l'exécutable téléchargé, exécutez celui-ci avec Wine.</p>
+    <img alt="larp-wine" src="../ressources/images/larp/larp-wine.png"/>
+    <p>Pour le reste de l'installation, référez-vous à l'installation sur Windows, puisqu'elle s'effectue exactement de la même manière que mentionné <a href="#choix">ici</a>.</p>
+
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="http://larp.marcolavoie.ca/fr/default.htm">Site officiel de Larp</a></li>
