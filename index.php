@@ -35,6 +35,16 @@ Durant cette période, ils participeront à l'analyse, la conception, et la prog
 Ils auront l'occasion de vivre une expérience professionnelle enrichissant sur un plan individuel et social tout en ayant la chance d'acquérir des connaissances s'ajoutant à celles qu'ils ont déjà acquises lors de leur DEC en informatique. 
 Un des buts du stage est de permettre à l'étudiant de compléter sa formation en observant des professionnels du milieu afin de distinguer les intervenants, leurs rôles, leurs responsabilités et de cerner le nivau de communication à adopter avec ses pairs.</p>	
 		
+		<h2 class="nomProgrammes"><a href="./logiciels/python.php">Python</a></h2>
+			<h3>Description</h3>
+				
+				<p>Python est un language de programmation interprété multiplatforme développé par Guido van Rossum. Afin de pouvoir exécuter du code écrit en Python, l'interpréteur Python est requit. Le lien plus haut redirige vers la page du guide d'installation de l'interpréteur Python sur les système d'exploitation Windows et Linux.</p>
+		
+		<h2 class="nomProgrammes"><a href="./logiciels/larp.php">LARP</a></h2>
+			<h3>Description</h3>
+				
+				<p>LARP est un environnement de développement dédié à un language d'algorithme et de résolution de problèmes. LARP permet de concevoir des algorithmes dans un language de programmation pseudo-code rédigé en francais et permet de les représenter sous forme d'organigrammes. Le lien plus haut redirige vers la page du guide d'installation de LARP sur les système d'exploitation Windows et Linux.</p>
+		
 		<h2 class="nomProgrammes"><a href="./logiciels/audacity.php">Audacity</a></h2>
 			<h3>Description</h3>
 				
