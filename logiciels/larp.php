@@ -71,7 +71,7 @@
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>Veuillez noter que LARP à été développé pour les systèmes Windows seulement. Par contre, il est possible de l'installer à l'aide des logiciels comme Wine.</p>
+    <p>Veuillez noter que LARP à été développé pour les systèmes Windows seulement. Par contre, il est possible de l'installer à l'aide des logiciels comme Wine (L'installation de Wine n'est pas décrite dans ce guide).</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
     <p>Une fois l'exécutable téléchargé, exécutez celui-ci avec Wine.</p>
     <img alt="larp-wine" src="../ressources/images/larp/larp-wine.png"/>
