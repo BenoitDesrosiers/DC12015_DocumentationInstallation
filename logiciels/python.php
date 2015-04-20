@@ -21,10 +21,9 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>python (Nom inspiré de la série télévisée "Monty Python") est un language de programmation interprété orienté objet. Ce Guide d'installation démontrera comment installer l'interpréteur de ce language sur différent système d'exploitation.</p>
+    <p>python (Nom inspiré de la série télévisée <i>"Monty Python"</i>) est un language de programmation interprété orienté objet. Ce Guide d'installation démontrera comment installer l'interpréteur de ce language sur différent système d'exploitation.</p>
 
 <h2><a name="windows">Windows</a></h2>
-
 <h3><a name="windows-prealables">Préalables</a></h3>
     <p>Puisqu'il existe de nombreuses version de Python, il existe plusieurs interpréteur différent qui eux possède des compatibitités variées d'un système à l'autre.</p>
     <p>L'installation de python 3.4.3 requiert Windows XP ou plus récent.</p>
@@ -35,15 +34,15 @@
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
     <p>Une fois l'exécutable téléchargé, exécutez-le. Il est possible que votre système d'exploitation affiche une fenêtre vous demandant la permission d'administrateur, acceptez.</p>
     <img alt="Lancez l'exécutable" src="../ressources/images/python/python-1.png"/>
-    <p>La prochaine fenêtre vous demandera pour quelles sessions vous souhaitez installer l'interpréteur Python, selectionnez selon votre besoin et cliquez sur "Next >"</p>
+    <p>La prochaine fenêtre vous demandera pour quelles sessions vous souhaitez installer l'interpréteur Python, selectionnez selon votre besoin et cliquez sur <i>"Next >"</i></p>
     <img alt="Sessions utilisateur" src="../ressources/images/python/python-2.png"/>
     <p>Ensuite, selectionnez le dossier dans lequel sera installé l'interpréteur lui-même et autres dossiers associés, puis cliquer sur <i>"Next >"</i>.</p>
     <img alt="Dossier d'installation" src="../ressources/images/python/python-3.png"/>
-    <p>La prochaine fenêtre vous laissera choisir les extentions que vous pouvez ajouter ou retirer à l'installation. Par défault, il est conseillé de seulement cliquer sur "Next >" et les extentions de base seront installées (pip, par exemple, peut s'avéré très utile).</p>
+    <p>La prochaine fenêtre vous laissera choisir les extentions que vous pouvez ajouter ou retirer à l'installation. Par défault, il est conseillé de seulement cliquer sur <i>"Next >"</i> et les extentions de base seront installées (pip, par exemple, peut s'avéré très utile).</p>
     <img alt="Extensions supplémentaires" src="../ressources/images/python/python-4.png"/>
     <p>L'installateur commencera immédiatement l'installation et vous devriez avoir la fenêtre de chargement suivante : </p>
     <img alt="Fenêtre de chargement" src="../ressources/images/python/python-5.png"/>
-    <p>Une fois terminé, vous n'avez qu'à cliquer sur le bouton "Finish" et l'installation sera complétée.</p>
+    <p>Une fois terminé, vous n'avez qu'à cliquer sur le bouton <i>"Finish"</i> et l'installation sera complétée.</p>
     <img alt="Installation complétée" src="../ressources/images/python/python-6.png"/>
 
 <h2><a name="linux">Linux</a></h2>
@@ -61,15 +60,15 @@
     </ul>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
     <p>Si Python n'est pas présent sur votre système, vous devez ajouter un répertoire de téléchargement afin d'avoir accès à l'installateur python.</p>
-    <p>Pour ce faire, vous n'avez qu'à entrez la ligne de commande suivante: "sudo add-apt-repository ppa:fkrull/deadsnakes".</p>
+    <p>Pour ce faire, vous n'avez qu'à entrez la ligne de commande suivante: <i>"sudo add-apt-repository ppa:fkrull/deadsnakes"</i>.</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
 	<p>Premièrement, ouvrez une console système.</p>
-	<p>Entrez ensuite la ligne suivante : "sudo apt-get pythonX.X" (Remplacer X.X par la version souhaitez, '3.4' par exemple).</p>	
+	<p>Entrez ensuite la ligne suivante : <i>"sudo apt-get pythonX.X"</i> (Remplacer X.X par la version souhaitez, '3.4' par exemple).</p>	
     <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
     <p>Si le système est protegé par un compte administrateur, la console risque de vous demander d'entrer le mot de passe afin de continuer.</p>
     <p>Une série de ligne devrait apparaitre à l'écran, celle-ci démontre que l'installation est en cours. Notez que ces lignes vous informent également de l'installation des packets nécessaires mentionné precedement.</p>
     <p>Lorsque la console aura terminé l'installation, vous devriez pouvoir entrez de nouvelles lignes de commande dans la console.</p>
-    <p>Vous devriez également pouvoir observer les lignes de commande suivante : "X mis à jour, X nouvellement installés, X à enlever et X non mis à jour."</p>
+    <p>Vous devriez également pouvoir observer les lignes de commande suivante : <i>"X mis à jour, X nouvellement installés, X à enlever et X non mis à jour."</i></p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
