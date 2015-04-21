@@ -170,6 +170,12 @@
 								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 							</li>
 						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/lamp.php">
+							<li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/lamp.png' alt='Lamp Server'/>
+	                        <h2 class='titre'>Lamp Server</h2>
+	                        <p class='description'>LAMP est un acronyme désignant un ensemble de logiciels libres sur Linux permettant de construire des serveurs de sites web.</p>
+							</li>
 						<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
 							<li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Opera Mobile.png' alt='Opera Mobile'/>
