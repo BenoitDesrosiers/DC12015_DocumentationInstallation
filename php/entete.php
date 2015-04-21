@@ -177,6 +177,13 @@
 	                        <p class='description'>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes.</p>
 							</li>
 						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/wamp.php">
+							<li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/WampServer.png' alt='Wamp Server'/>
+	                        <h2 class='titre'>Wamp Server</h2>
+	                        <p class='description'>WampServer est une plate-forme de développement Web sous Windows pour des applications Web dynamiques.</p>
+							</li>
+						</a>
 	                </ul>
 	            </div>
 	        </li>

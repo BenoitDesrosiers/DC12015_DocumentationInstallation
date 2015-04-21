@@ -59,6 +59,11 @@ Un des buts du stage est de permettre à l'étudiant de compléter sa formation 
 			<h3>Description</h3>
 				
 				<p>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes qui facilite le développement d'application mobile.</p>
+		
+		<h2 class="nomProgrammes"><a href="./logiciels/wamp.php">Wamp Server</a></h2>
+			<h3>Description</h3>
+				
+				<p>WampServer est une plate-forme de développement Web sous Windows pour des applications Web dynamiques à l’aide du serveur Apache2, du langage de scripts PHP et d’une base de données MySQL. Il possède également PHPMyAdmin pour gérer plus facilement vos bases de données.</p>
 
 				
 		
