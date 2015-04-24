@@ -91,7 +91,7 @@
 	
 	<h2><a name="firebug">Plugin Firebug</a></h2>
 	<h3><a name="firebug-telechargement">Téléchargement</a></h3>
-    <p>À partir de votre navigateur Firefox,rendez vous sur <a href="https://www.mozilla.org/fr/firefox/new/">cette page</a>.</p>
+    <p>À partir de votre navigateur Firefox,rendez vous sur <a href="https://addons.mozilla.org/fr/firefox/addon/firebug/">cette page</a>.</p>
 	<p> Cliquer ensuite sur "Add to Firefox".</p>
     <p>En date du 24 avril 2015, la version la plus récente du plugin Firebug 2.0.9.1.</p>
 	
