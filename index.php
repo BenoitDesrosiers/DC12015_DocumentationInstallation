@@ -39,7 +39,16 @@
 			<h3>Description</h3>
 				
 				<p>WampServer est une plate-forme de développement Web sous Windows pour des applications Web dynamiques à l’aide du serveur Apache2, du langage de scripts PHP et d’une base de données MySQL. Il possède également PHPMyAdmin pour gérer plus facilement vos bases de données.</p>
-
+				
+		<h2 class="nomProgrammes"><a href="./logiciels/chrome.php">Google Chrome</a></h2>
+			<h3>Description</h3>
+				
+				<p>Chrome est un navigateur web privateur développé par Google basé sur le projet libre Chromium fonctionnant sous Windows, Mac, Linux, Android et iOS. Google Chrome est identique à Chromium hormis un logo différent et quelques fonctionnalités en moins ou en développement.</p>
+				
+		<h2 class="nomProgrammes"><a href="./logiciels/firefox.php">Mozilla Firefox</a></h2>
+			<h3>Description</h3>
+				
+				<p>Mozilla Firefox est un navigateur web libre et gratuit, développé et distribué par la Mozilla Foundation avec l'aide de milliers de bénévoles grâce aux méthodes de développement du logiciel libre/open source et à la liberté du code source.</p>
 	</div>
 
 <?php 
