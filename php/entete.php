@@ -153,14 +153,14 @@
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Chrome.png' alt='Chrome'/>
 	                        <h2 class='titre'>Chrome</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Navigateur internet Google Chrome</p>
 	                    </li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/firefox.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Firefox.png' alt='Firefox'/>
 	                        <h2 class='titre'>Firefox</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Navigateur internet Mozilla Firefox</p>
 	                    </li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/filezilla.php">
