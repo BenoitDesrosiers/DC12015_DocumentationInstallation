@@ -51,28 +51,26 @@
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>GIMP vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de GIMP:</p>
-    <ul>
-        <li>gimp-data</li>
-        <li>libbabl</li>
-        <li>libgegl</li>
-        <li>libgimp2</li>
-        <li>libilmbase6</li>
-        <li>libmng1</li>
-        <li>libopenexr6</li>
-    </ul>
-<h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution.</p>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
+    <p>L'installation du navigateur Google Chrome nécessite Linux Ubuntu 12.04 ou ultérieur, Debian 7 ou ultérieur, OpenSuse 12.2 ou ultérieur ou encore Fedora Linux 17</p>
+	<p>Processeur: Intel Pentium 4 ou ultérieur </p>
+	<p>Espace sur disque dur: au moins 350 mégaoctets </p>
+	<p>Mémoire vive(RAM): Au moins 512 mégaoctets </p>
+	<p>Les pré-requis sont également disponible <a href="https://support.google.com/chrome/answer/95346?hl=fr">ici</a> </p>
+    <p>Vous devez définir si votre système est un système 32 ou 64 bits.Pour ce faire,
+	ouvrez le terminal du système(en recherchant « terminal »),puis entrez la commande suivante : uname –m .Puis appuyer sur Entrée.Si le terminal affiche x86_64, cela signifie que votre système est 64 bits.Sinon,votre système est un 32bits.</p> 	
+	<h3><a name="linux-telechargement">Téléchargement</a></h3>
+    <p>Vous pouvez télécharger Google Chrome sur <a href="https://www.google.com/chrome/browser/desktop/">cette page</a>.</p>
+	<p>Assurer vous que le bon installeur sera télécharger(regarder sous le bouton bleu "Télécharger Google Chrome" ce qui est écrit).Si ce n'est pas le bon système
+	cliquer sur "Télécharger Chrome pour une autre plate-forme" en dessous en choissisez le bon système"</p>
+	<p>Lorsque vous aurez cliquer, une fenêtre apparaîtra avec les Conditions d'utilisation de Chrome(que vous pourrez lire éventuellement..),puis sélectionner "Accepter et installer"</p>
+    <p>En date du 23 avril 2015, la version la plus récente est 42.0.2311.90 m</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
+<p>Lancer l'exécutable téléchargé.<br>Patientez le temps du téléchargement de Chrome. <br>
+	<img alt="Téléchargement de chrome" src="../ressources/images/chrome/downchrome.jpg"/>
+	Notez que l'installation de Chrome est presque entièrement automatisé(quasiment).<br>
+	<img alt="Installation de chrome" src="../ressources/images/chrome/installchrome.jpg"/><br>À la fin de l'installation,le navigateur Chrome s'ouvrira automatiquement</p>
+    <img alt="Ouverture de chrome" src="../ressources/images/chrome/main.jpg"/>
 
-<h2><a name="voir-aussi">Voir aussi:</a></h2>
-    <ul>
-        <li><a href="www.gimp.org/">Site officiel de GIMP</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/gimp">GIMP dans la documentation Ubuntu francophone</a></li>
 
 
 </div>
