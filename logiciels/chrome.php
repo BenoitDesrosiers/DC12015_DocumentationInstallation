@@ -21,7 +21,7 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>Chrome est un navigateur web privateur développé par Google basé sur le projet libre Chromium fonctionnant sous Windows, Mac, Linux, Android et iOS. Google Chrome est identique à Chromium hormis un logo différent et quelques fonctionnalités en moins ou en développement.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
