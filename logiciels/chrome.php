@@ -5,7 +5,7 @@
 
 <div class='contenu'>
 
-<h1>Guide d'installation de GIMP<h1>
+<h1>Guide d'installation de Google Chrome<h1>
 
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
