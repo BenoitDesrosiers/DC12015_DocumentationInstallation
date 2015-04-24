@@ -1,11 +1,11 @@
 ﻿<?php
-	$titrePage = "Guide d'installation de Gimp";
+	$titrePage = "Guide d'installation de Mozilla Firefox";
 	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
 <div class='contenu'>
 
-<h1>Guide d'installation de GIMP<h1>
+<h1>Guide d'installation de Mozilla Firefox<h1>
 
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
@@ -21,20 +21,24 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>Mozilla Firefox est un navigateur web libre et gratuit, développé et distribué par la Mozilla Foundation avec l'aide de milliers de bénévoles grâce aux méthodes de développement du logiciel libre/open source et à la liberté du code source.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de GIMP nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
-    <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
+    <p>L'installation de Firefox nécessite Windows XP SP2,Windows Server 2003 SP1,Windows Vista,7 ou 8 ou plus récent.</p>
+	<p>Processeur: Intel Pentium 4 ou ultérieur, supportant SSE2</p>
+	<p>Espace disque dur: au moins 200 mégaoctets de disponible</p>
+	<p>Mémoire vive(RAM):Au moins 512mégaoctets</p>
+    <p>Les pré-requis sont également disponible à l'adresse <a href="https://www.mozilla.org/en-US/firefox/37.0.2/system-requirements/">https://www.mozilla.org/en-US/firefox/37.0.2/system-requirements/</a></p>
+	<p>Actuellement, Firefox ne rends pas public les versions 64-bits de Firefox pour Windows.L’installateur est un installateur universel 32-bits qui fonctionnera autant si votre ordinateur possède un système 32 ou 64 bits.</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
+    <p>Vous pouvez télécharger Firefox sur <a href="https://www.mozilla.org/fr/firefox/new/">cette page</a>.</p>
+    <p>En date du 24 avril 2015, la version la plus récente est 37.0.2</p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
+    <p>Lancer l'exécutable téléchargé. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
     <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-1.png"/>
     <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
     <img alt="Installation standard ou personnalisée" src="../ressources/images/gimp/gimp-2.png"/>
