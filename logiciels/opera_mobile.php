@@ -52,7 +52,7 @@
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
 	<p>Un lien de téléchargement peut être trouvé sur <a href="http://www.opera.com/developer/mobile-emulator">le site d'Opera</a>.</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
-	<p>Décompressez le fichier .gz et lancez l'exécutable.</p>
+	<p>Aucune information trouvée.</p>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="http://www.opera.com/fr/developer/mobile-emulator">Site officiel d'Opera Mobile Emulator</a></li>
