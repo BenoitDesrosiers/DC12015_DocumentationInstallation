@@ -1,5 +1,5 @@
 <?php
-	$titrePage = "Le titre de la page";
+	$titrePage = "Index des guides d'installation";
 	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
@@ -15,6 +15,10 @@
 				
 				<p>Suite de logiciels payante permettant de créer et de modifier des images, des vidéos ainsi que des fichiers audios. Pendant les cours, nous nous cncentrerons sur celui-ci: AvsVideo Editor</p>
 
+        <h2 class="nomProgrammes"><a href="./logiciels/gimp.php">Gimp</a></h2>
+            <h3>Description</h3>
+            <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+
 		<h2 class="nomProgrammes"><a href="./logiciels/lamp.php">Lamp Server</a></h2>
 			<h3>Description</h3>
 				
@@ -24,11 +28,16 @@
 			<h3>Description</h3>
 				
 				<p>LARP est un environnement de développement dédié à un language d'algorithme et de résolution de problèmes. LARP permet de concevoir des algorithmes dans un language de programmation pseudo-code rédigé en francais et permet de les représenter sous forme d'organigrammes. Le lien plus haut redirige vers la page du guide d'installation de LARP sur les système d'exploitation Windows et Linux.</p>
-				
-		<h2 class="nomProgrammes"><a href="./logiciels/opera_mobile.php">Opera Mobile Emulator</a></h2>
-			<h3>Description</h3>
-				
-				<p>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes qui facilite le développement d'application mobile.</p>
+
+        <h2 class="nomProgrammes"><a href="./logiciels/msysgit.php">msysGit</a></h2>
+            <h3>Description</h3>
+            <p>msysGit (abbréviation de <i>Minimal System Git</i>) est un environnement de développement fournissant différents outils permettant de modifier et de compiler le code source du logiciel Git pour Windows (<i>Git for Windows</i>).</p>
+
+        <h2 class="nomProgrammes"><a href="./logiciels/opera_mobile.php">Opera Mobile Emulator</a></h2>
+            <h3>Description</h3>
+                
+                <p>Opera Mobile Emulator est un émulateur de téléphones intelligents et de tablettes qui facilite le développement d'application mobile.</p>
+        
 		
 		<h2 class="nomProgrammes"><a href="./logiciels/python.php">Python</a></h2>
 			<h3>Description</h3>
