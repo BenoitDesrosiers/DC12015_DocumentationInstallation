@@ -23,8 +23,12 @@
 	<p>- Étape 1: Installez Apache:   sudo apt-get install apache2</p>
 	<p>- Étape 2: Installez MySQL:   sudo apt-get install mysql-server</p>
 	<p>- Étape 3: Installez PHP:   sudo apt-get install php5 libapache2-mod-php5</p>
-	<p>- Étape 4: Redémarrez le server Apache:  Le serveur Apache devrait redémarrer automatiquement. S'il ne le fait pas, exécutez la commande suivante:   sudo /etc/init.d/apache2 restart</p>
-	<p>- Étape 5: Vérifiez Apache:  Ouvrir votre navigateur internet et allez à http://localhost/ . Vous devriez voir un message indiquant que ça fonctionne.</p>
+	<p>- Étape 4: Installez PHPmyAdmin:   sudo apt-get install phpmyadmin</p>
+	<p>- Étape 5: Créer un lien symbolique:   sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin</p>
+	<p>- Étape 6: Redémarrez le server Apache:  Le serveur Apache devrait redémarrer automatiquement.</p>
+ 	<p>	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S'il ne le fait pas, exécutez la commande suivante:   sudo /etc/init.d/apache2 restart</p>
+	<p>- Étape 7: Vérifiez Apache:  Ouvrir votre navigateur internet et allez à http://localhost/ .</p>
+	<p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vous devriez voir un message indiquant que ça fonctionne.</p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
