@@ -1,5 +1,5 @@
 <?php
-	$titrePage = "Guide d'installation de Gimp";
+	$titrePage = "Guide d'installation d'Android SDK";
 	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
@@ -21,62 +21,57 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>Description.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de GIMP nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
-    <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
+    <ul>
+        <li>Java Development Kit (JDK) 7 (<a href="">voir guide d'installation</a>)</li>
+        <li>Eclipse 3.7.2 ou une version plus récente (<a href="">voir guide d'installation</a>)</li>
+    </ul>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
+    <p>Le lien de téléchargement se trouve sur <a href="https://developer.android.com/sdk/index.html#Other">cette page</a>. 
+	Choisissez le fichier exécutable pour Windows qui se trouve dans <b>SDK Tools Only</b>.</p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-1.png"/>
-    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
-    <img alt="Installation standard ou personnalisée" src="../ressources/images/gimp/gimp-2.png"/>
-    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Accord de license" src="../ressources/images/gimp/gimp-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Installation complète" src="../ressources/images/gimp/gimp-4.png"/>
-    <img alt="Installation minimale" src="../ressources/images/gimp/gimp-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à ouvrir avec GIMP par défaut, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Association de fichiers" src="../ressources/images/gimp/gimp-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/gimp/gimp-7.png"/>
-    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
-    <img alt="Révision des paramètres" src="../ressources/images/gimp/gimp-8.png"/>
-    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-9.png"/>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-10.png"/>
+    <p>Lancer l'exécutable</p>
+    <img alt="" src="../ressources/images/android/installation-win-etape1.png"/>
+    <p>L'installateur va vérifier qu'une version de Java SE Development Kit est bien installée sur l'ordinateur.</p>
+    <img alt="" src="../ressources/images/android/installation-win-etape2.png"/>
+    <p>Choisir si le SDK doit être installé pour tous les utilisateurs de l'ordinateur ou seulement celui-ci</p>
+    <img alt="" src="../ressources/images/android/installation-win-etape3.png"/>
+    <p>Choisir le dossier où installer le SDK. Il est recommandé de l'installer directement à la racine du C:/, dans un dossier appelé 'Android'</p>
+    <img alt="" src="../ressources/images/android/installation-win-etape4.png"/> 
+	<p>Sélectionner le dossier du menu Démarrer où créer les raccourcis (ou cocher 'Do not create
+shortcuts' pour ne pas créer de raccourci)</p>
+    <img alt="" src="../ressources/images/android/installation-win-etape5.png"/>
+    <p>Cliquer sur <b>Install</b> pour lancer l'installation. Attendez puis cliquez sur <b>Next</b> lorsque l'installation est complétée.</p>
+    <img alt="" src="../ressources/images/android/installation-win-etape6.png"/>
+    <p>Décocher <b>Start SDK Manager</b> et cliquer sur <b>Finish</b></p>
+    <img alt="" src="../ressources/images/android/installation-win-etape7.png"/>
+    <p>Démarrer Eclipe.</p>
+	<p>Dans le menu, sélectionner <b>Help > Install New Software</b> et cliquer sur <b>Add...</b></p>
+    <img alt="" src="../ressources/images/android/installation-win-etape9.png"/>
+    <p>Entrer les informations suivantes: <i>ADT Plugin</i> dans <b>Name</b> et <i>https://dl-ssl.google.com/android/eclipse/</i> dans <b>Location</b></p>
+    <img alt="" src="../ressources/images/android/installation-win-etape10.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>GIMP vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de GIMP:</p>
     <ul>
-        <li>gimp-data</li>
-        <li>libbabl</li>
-        <li>libgegl</li>
-        <li>libgimp2</li>
-        <li>libilmbase6</li>
-        <li>libmng1</li>
-        <li>libopenexr6</li>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
     </ul>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution.</p>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
+    <p>Le lien de téléchargement se trouve sur <a href="https://developer.android.com/sdk/index.html#Other">cette page</a>. 
+	Choisissez la version Linux qui se trouve dans <b>SDK Tools Only</b>.<p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
-        <li><a href="www.gimp.org/">Site officiel de GIMP</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/gimp">GIMP dans la documentation Ubuntu francophone</a></li>
+        <li><a href="https://developer.android.com/index.html">Site officiel d'Android pour les développeurs</a></li>
 
 
 </div>
