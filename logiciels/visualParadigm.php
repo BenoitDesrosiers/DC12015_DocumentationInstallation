@@ -9,7 +9,7 @@
 
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
-    <a href="prealables"><h3>Préalables</h3></a>
+    <a href="#prealables"><h3>Préalables</h3></a>
     <a href="#windows"><h2>Windows</h2></a>
     <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
     <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
