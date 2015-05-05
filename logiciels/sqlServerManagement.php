@@ -22,7 +22,7 @@
 <h2><a name="windows">Windows</a></h2>
 
 	<h3><a name="windows-prealables">Préalables</a></h3>
-		<p>L'installation de Sql server 2014 nécessite Windows (7 et 8).</p>
+		<p>L'installation de SQL server 2014 nécessite Windows (7 et 8).</p>
 		<p>Le logiciel demande minimalement un processeur AMD ou Intel single-core 1GHZ ou plus, 512mo de RAM ainsi qu'une carte son compatible windows. Il est aussi nécessaire d'avoir au moins 4.2Go d'espace disque libre pour l'installation</p>
 
 	<h3><a name="windows-telechargement">Téléchargement</a></h3>
@@ -33,32 +33,32 @@
 		<img alt="Telechargement_2" src="../ressources/images/sqlServer2014ManagementStudio/etape_2.png">
 
 	<h3><a name="windows-installation">Procédure d'installation</a></h3>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_3.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_4.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_5.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_6.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_7.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_8.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_9.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
-		<p></p>
-		<img alt="" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
+		<p>Cliquer sur le bouton <i>Oui</i> pour valider l'installation</p>
+		<img alt="Vallidation des droits d'installation" src="../ressources/images/sqlServer2014ManagementStudio/etape_3.png"/>
+		<p>Sélectionnez un répertoire pour l'extraction des fichiers d'installation en cliquant sur <i>Parcourir</i>. ATTENTION: Ceux-ci nécessitent un espace de 680mo supplémentaire. Laisser par défaut sinon. Appuyer sur <i>Ok</i> pour poursuivre.</p>
+		<img alt="Repertoire d'extraction" src="../ressources/images/sqlServer2014ManagementStudio/etape_4.png"/>
+		<p>Patientez pendant l'extraction des fichiers</p>
+		<img alt="Extraction des fichiers" src="../ressources/images/sqlServer2014ManagementStudio/etape_5.png"/>
+		<p>Cliquer sur <i>New SQL Server stand-alone installation or add [...] </i> pour installer une nouvelle instance de Sql server</p>
+		<img alt="Centre d'installation" src="../ressources/images/sqlServer2014ManagementStudio/etape_6.png"/>
+		<p>Patienter pendant la préparation du logiciel d'installation</p>
+		<img alt="Préparation de l'assistant d'installation" src="../ressources/images/sqlServer2014ManagementStudio/etape_7.png"/>
+		<p>Prendre connaissance des conditions d'utilisation du logiciel, cocher la case <i>I accept the license terms.</i>, puis cliquer sur <i>Next</i></p>
+		<img alt="Condition d'utilisation" src="../ressources/images/sqlServer2014ManagementStudio/etape_8.png"/>
+		<p>Sélection des fonctionnalités à installer. Cocher toute les cases commeindiqué, puis laisser les répertoires d'installation comme tel pour éviter des configurations supplémentaires. Cliquer sur <i>Next > </i> pour continuer.</p>
+		<img alt="fonctionnalités à installer" src="../ressources/images/sqlServer2014ManagementStudio/etape_9.png"/>
+		<p>Nommer l'instance de SQL server dans le champ <i>Named instance</i> si nécessaire, laisser le nom par défaut sinon. Cliquer sur <i>Next ></i> pour continuer</p>
+		<img alt="Attribution du nom de l'instance" src="../ressources/images/sqlServer2014ManagementStudio/etape_10.png"/>
+		<p>Configuration du serveur SQL. Laisser tous le contenu par défaut et cliquer sur <i>Suivant</i> pour continuer.</p>
+		<img alt="Configuration du serveur 1" src="../ressources/images/sqlServer2014ManagementStudio/etape_11.png"/>
+		<p>Suite de la configuration du serveur SQL. S'assurer que la ligne <i>Windows authentication mode</i> est sélectionnée, puis choisir l'utilisateur de l'ordinateur qui sera l'administrateur du serveur SQL. Cliquer sur <i>Next > </i> pour continuer</p>
+		<img alt="Configuration du serveur 2" src="../ressources/images/sqlServer2014ManagementStudio/etape_12.png"/>
+		<p>Patientez pendant l'installation du serveur SQL</p>
+		<img alt="Installation" src="../ressources/images/sqlServer2014ManagementStudio/etape_13.png"/>
+		<p>S'assurer que toutes les fonctionalités ont été correctement installée, puis cliquer sur <i>Close</i> pour Quitter l'assistant d'installation.</p>
+		<img alt="Résumé des actions effectuées" src="../ressources/images/sqlServer2014ManagementStudio/etape_14.png"/>
+		<p>Cliquer sur le X rouge en haut à droite pour fermer le centre d'installation de SQL server.</p>
+		<img alt="Fenêtre du centre d'installation" src="../ressources/images/sqlServer2014ManagementStudio/etape_15.png"/>
 		
 		
 

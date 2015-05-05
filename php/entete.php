@@ -40,8 +40,8 @@
 						<a href="/DC12015_DocumentationInstallation/logiciels/sqlServerManagement.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/SqlManagement.png' alt='Sql_Management_studio'/>
-	                        <h2 class='titre'>Sql server management studio 2014</h2>
-	                        <p class='description'><br>Gestionaire de basse de donnée sql de Microsoft.</p>
+	                        <h2 class='titre petit_titre'>Microsoft&#169 SQL server 2014 management studio</h2>
+	                        <p class='description'>Gestionaire de basse de donnée SQL de Microsoft.</p>
 	                    </li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/sqlite3.php">
