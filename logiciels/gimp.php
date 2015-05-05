@@ -12,11 +12,13 @@
     <a href="#windows"><h2>Windows</h2></a>
     <a href="#windows-prealables"><h3>Préalables</h3></a>
     <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
-    <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
+    <a href="#windows-installation"><h3>Installation</h3></a>
+    <a href="#windows-desinstallation"><h3>Désinstallation</h3></a>
     <a href="#linux"><h2>Linux</h2></a>
     <a href="#linux-prealables"><h3>Préalables</h3></a>
     <a href="#linux-telechargement"><h3>Téléchargement</h3></a>
-    <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
+    <a href="#linux-installation"><h3>Installation</h3></a>
+    <a href="#linux-installation"><h3>Désinstallation</h3></a>
     <a href="#post-installation"><h2>Après l'installation</h2></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
@@ -29,12 +31,13 @@
 <h3><a name="windows-prealables">Préalables</a></h3>
     <p>L'installation de GIMP nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
     <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
+    <p>Il n'est pas nécessaire de désinstaller une version préexistante de Gimp avant de lancer l'installateur. La nouvelle version écrasera simplement l'ancienne et les paramètres et plugins tiers seront conservés.</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
     <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
     <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
 
-<h3><a name="windows-installation">Procédure d'installation</a></h3>
+<h3><a name="windows-installation">Installation</a></h3>
     <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
     <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-1.png"/>
     <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
@@ -54,10 +57,15 @@
     <img alt="Installation en cours" src="../ressources/images/gimp/gimp-9.png"/>
     <img alt="Terminé" src="../ressources/images/gimp/gimp-10.png"/>
 
+<h3><a name="windows-desinstallation">Désinstallation</a></h3>
+    <p>Gimp fournit son propre désinstallateur. On peut le trouver facilement dans l'outil <i>Désinstaller un Programme</i> qui se trouve dans le panneau de configuration de Windows.</p>
+    <p>Pour nettoyer complètement le disque après une désinstallation, supprimer le dossier <i>.gimp-2.8</i> (ou équivalent, selon le numéro de version) situé normalement dans <i>C:\Users\{utilisateur}</i>.</p>
+
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
     <p>GIMP vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de GIMP:</p>
+    <p>Il n'est pas nécessaire de désinstaller une version préexistante de Gimp avant de lancer l'installateur. La nouvelle version écrasera simplement l'ancienne et les paramètres et plugins tiers seront conservés.</p>
+    <p>Les paquets suivants sont nécessaires au fonctionnement de GIMP:</p>
     <ul>
         <li>gimp-data</li>
         <li>libbabl</li>
@@ -69,7 +77,7 @@
     </ul>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
     <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution. Les gestionnaires de paquets se chargent autant du téléchargement que de l'installation.</p>
-<h3><a name="linux-installation">Procédure d'installation</a></h3>
+<h3><a name="linux-installation">Installation</a></h3>
     <p>Dans le cas d'Ubuntu, on peut passer par un terminal ou par la Logithèque Ubuntu.</p>
     <h4>Terminal</h4>
     <p>Ouvrir un terminal. Il suffit de taper «Terminal» dans la barre de recherche du Dash (la première icône en haut de la barre à gauche de l'écran) et cliquer sur l'icône correspondante dans les résultats.</p>
@@ -91,8 +99,12 @@
     <img alt="Ouvrir la Logithèque Ubuntu" src="../ressources/images/gimp/progres-installation.png"/>
     <h4>Terminé</h4>
     <p>À la fin du processus, Gimp est prêt à être utilisé. Il peut être trouvé dans le menu Dash ou lancé par ligne de commande.</p>
-
     <img alt="Gimp est installé" src="../ressources/images/gimp/post.png"/>
+
+<h3><a name="linux-desinstallation">Désinstallation</a></h3>
+    <p>Gimp peut être désinstallé par le terminal (voir l'installation pour voir comment en ouvrir un) en utilisant la commande <i>remove</i> du gestionnaire de paquets:</p>
+    <p class="terminal">sudo apt-get remove gimp</p>
+    <p>Pour enlever toutes traces de Gimp du disque, supprimer le dossier <i>.gimp-2.8</i> (ou équivalent, selon le numéro de version) qui se trouve dans <i>/home/{utilisateur}</i>.</p>
 
 <h3><a name="post-installation">Après l'installation</a></h3>
     <p>Une fois l'installation terminée, ouvrir Gimp. Sélectionner ensuite la fonction <i>Nouvelle image</i> dans le menu <i>Fichier</i></p>

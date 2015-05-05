@@ -17,7 +17,7 @@
 	</div>
 
 	<h2><a name="presentation">Présentation</a></h2>
-		<p></p>
+		<p>CaseComplete est une application de gestion d'exigences qui permet aux analystes d'affaires et aux développeurs de logiciels de créer et de gérer des cas d'utilisations et des spécifications de logiciels. CaseComplete permet d'éditer la partie textuelle des cas d'utilisations et des exigences dans un environnement guidé et la capacité de créer divers types de diagrammes incluant des diagrammes des cas d'utilisations, esquisses d'interfaces utilisateur graphiques et des organigrammes.</p>
 
 	<h3><a name="windows-prealables">Préalables</a></h3>
 		<ul>

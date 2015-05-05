@@ -37,6 +37,13 @@
 	        <li class='categorie'><p>Bases de données</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/sqlServerManagement.php">
+	                    <li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/SqlManagement.png' alt='Sql_Management_studio'/>
+	                        <h2 class='titre'>Sql server management studio 2014</h2>
+	                        <p class='description'><br>Gestionaire de basse de donnée sql de Microsoft.</p>
+	                    </li>
+						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/sqlite3.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Sqlite.png' alt='SQLite3'/>
@@ -153,14 +160,14 @@
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Chrome.png' alt='Chrome'/>
 	                        <h2 class='titre'>Chrome</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Navigateur internet Google Chrome</p>
 	                    </li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/firefox.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Firefox.png' alt='Firefox'/>
 	                        <h2 class='titre'>Firefox</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+	                        <p class='description'>Navigateur internet Mozilla Firefox</p>
 	                    </li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/filezilla.php">
@@ -170,6 +177,12 @@
 								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 							</li>
 						</a>
+						<a href="/DC12015_DocumentationInstallation/logiciels/lamp.php">
+							<li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/lamp.png' alt='Lamp Server'/>
+	                        <h2 class='titre'>Lamp Server</h2>
+	                        <p class='description'>LAMP est un acronyme désignant un ensemble de logiciels libres sur Linux permettant de construire des serveurs de sites web.</p>
+							</li>
 						<a href="/DC12015_DocumentationInstallation/logiciels/opera_mobile.php">
 							<li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Opera Mobile.png' alt='Opera Mobile'/>

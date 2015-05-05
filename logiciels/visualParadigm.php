@@ -20,7 +20,7 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>Visual Paradigm est un modélisateur d'UML visuel et outil de CAS facile à utiliser, puissant et multi-platforme . Visual Paradigm fournit aux développeurs de logiciels la plate-forme de développement d'avant-garde pour bâtir des applications de qualité plus rapidement, mieux et pour moins cher!</p>
+    <p>Visual Paradigm est un modélisateur d'UML visuel et outil de cas facile à utiliser, puissant et multi-platforme. Visual Paradigm fournit aux développeurs de logiciels la plate-forme de développement d'avant-garde pour bâtir des applications de qualité plus rapidement, mieux et pour moins cher!</p>
 
 <h3><a name="prealables">Préalables</a></h3>
     <ul>
