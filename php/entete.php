@@ -68,6 +68,13 @@
 	                        <h2 class='titre'>LibreOffice</h2>
 	                        <p class='description'>La meilleure suite bureautique de l'univers</p>
 	                    </li>
+			<a href="/DC12015_DocumentationInstallation/logiciels/virtualbox.php">
+			    <li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/virtualbox.png' alt='VirtualBox'/>
+	                        <h2 class='titre'>Oracle VM Virtualbox</h2>
+	                        <p class='description'>Virtualbox est un programme pouvant simuler différents systême d'exploitation virtuellement.</p>
+	                    </li>
+			</a>
 	                </ul>
 	            </div>
 	        </li>
