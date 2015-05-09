@@ -1,5 +1,5 @@
 <?php
-	$titrePage = "Guide d'installation de Gimp";
+	$titrePage = "Guide d'installation d'Android SDK";
 	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
@@ -13,74 +13,162 @@
     <a href="#windows-prealables"><h3>Préalables</h3></a>
     <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
     <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
+	<a href="#windows-configuration"><h3>Configuration</h3></a>
+	<a href="#windows-plugin"><h3>Installation du plugin Eclipse</h3></a>
     <a href="#linux"><h2>Linux</h2></a>
     <a href="#linux-prealables"><h3>Préalables</h3></a>
     <a href="#linux-telechargement"><h3>Téléchargement</h3></a>
     <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
+	<a href="#linux-plugin"><h3>Installation du plugin Eclipse</h3></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>Description.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de GIMP nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
-    <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
+    <ul>
+        <li>Java Development Kit (JDK) 7 (<a href="">voir guide d'installation</a>)</li>
+        <li>Eclipse 3.7.2 ou une version plus récente (<a href="">voir guide d'installation</a>)</li>
+		<li>Microsoft® Windows® 8/7/Vista/2003 (32 or 64-bit)</li>
+		<li>2 Go de RAM minimum (4 Go recommandé)</li>
+    </ul>
+	<br/>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
+    <p>Le lien de téléchargement se trouve sur <a href="https://developer.android.com/sdk/index.html#Other">cette page</a>. 
+	<br/>Choisissez le fichier exécutable pour Windows qui se trouve dans <b>SDK Tools Only</b>.</p>
+	<br/>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-1.png"/>
-    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
-    <img alt="Installation standard ou personnalisée" src="../ressources/images/gimp/gimp-2.png"/>
-    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Accord de license" src="../ressources/images/gimp/gimp-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Installation complète" src="../ressources/images/gimp/gimp-4.png"/>
-    <img alt="Installation minimale" src="../ressources/images/gimp/gimp-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à ouvrir avec GIMP par défaut, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Association de fichiers" src="../ressources/images/gimp/gimp-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/gimp/gimp-7.png"/>
-    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
-    <img alt="Révision des paramètres" src="../ressources/images/gimp/gimp-8.png"/>
-    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-9.png"/>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-10.png"/>
+    <p>1. Lancer l'exécutable.</p>
+    <img alt="Exécutable" src="../ressources/images/android/installation-win-etape1.png"/>
+    <br/>
+	<p>2. L'installateur va vérifier qu'une version de Java SE Development Kit est bien installée sur l'ordinateur.</p>
+    <img alt="Vérification de Java" src="../ressources/images/android/installation-win-etape2.png"/>
+    <br/>
+	<p>3. Choisir si le SDK doit être installé pour tous les utilisateurs de l'ordinateur ou seulement celui-ci.</p>
+    <img alt="Choix d'utilisateurs" src="../ressources/images/android/installation-win-etape3.png"/>
+    <br/>
+	<p>4. Choisir le dossier où installer le SDK. Il est recommandé de l'installer directement à la racine du C:/, dans un dossier appelé <i>Android</i>.</p>
+    <img alt="Choix du répertoire d'installation" src="../ressources/images/android/installation-win-etape4.png"/> 
+	<br/>
+	<p>5. Sélectionner le dossier du menu Démarrer où créer les raccourcis (ou cocher <i>Do not create
+	shortcuts</i> pour ne pas créer de raccourci).</p>
+    <img alt="Options de raccourci" src="../ressources/images/android/installation-win-etape5.png"/>
+    <br/>
+	<p>6. Cliquer sur <b>Install</b> pour lancer l'installation. Attendez puis cliquez sur <b>Next</b> lorsque l'installation est complétée.</p>
+    <img alt="Lancement de l'installation" src="../ressources/images/android/installation-win-etape6.png"/>
+    <br/>
+	<p>7. Laisser coché <b>Start SDK Manager</b> et cliquer sur <b>Finish</b>.</p>
+    <img alt="Fin de l'installation" src="../ressources/images/android/installation-win-etape7.png"/>
+    <br/>
+	<p>17. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :</p>
+	<ul>
+        <li>Android SDK Platform-tools</li>
+        <li>Android SDK Build-tools</li>
+        <li>Android Support Library</li>
+		<li>Google USB Driver</li>
+    </ul>
+	<p>Choisir également les API (versions de Android) dont vous aurez besoin.
+	<br/>
+	<u>NOTE :</u> Vous pouvez tout cocher, mais l'installation risque de prendre beaucoup de temps.</p>
+    <img alt="Installation des packages" src="../ressources/images/android/installation-win-etape17.png"/>
+	<br/>
+	<p>18. Accepter les licences et attendre que l'installation se complète.</p>
+    <img alt="Licences des packages" src="../ressources/images/android/installation-win-etape18.png"/>
+	<br/>
+	
+<h3><a name="windows-configuration">Configuration</a></h3>
+    <p>1. Ouvrir la fenêtre de gestion des variables d'environnement.
+	<br><u>Pour Windows 7 ou 8 :</u> <b>Panneau de Configuration</b> > <b>Système</b> > <b>Paramètres système avancés</b> > <b>Variables d'environnement</b></p>
+	<p>2. Sélectionner la variable <b>PATH</b>.</p>
+	<p>3. Cliquer sur <b>Modifier...</b></p>
+	<p>4. La variable contiendra probablement déjà des valeurs. Se rendre jusqu'à la fin de la ligne et ajouter
+	les chemins complets vers <b>tools</b> et <b>platform-tools</b> du SDK, en les séparant par des point-virgules (ne pas oublier d'ajouter un point-virgule avant le premier s'il y a déjà d'autres éléments). 
+	Par exemple, si vous l'avez installé à la racine du C, cela devrait donner : <i>C:\Android\sdk\tools;C:\Android\sdk\platform-tools</i></p>
+	<p>5. Cliquer sur <b>Ok</b> pour appliquer les changements.</p>
+	<br/>
+	
+<h3><a name="windows-plugin">Installation du plugin pour Eclipse</a></h3>
+	<p>1. Démarrer Eclipe.</p>
+	<p>2. Dans le menu, sélectionner <b>Help > Install New Software</b> et cliquer sur <b>Add...</b></p>
+    <img alt="Menu Eclipse" src="../ressources/images/android/installation-win-etape9.png"/>
+    <br/>
+	<p>3. Entrer les informations suivantes: <i>ADT Plugin</i> dans <b>Name</b> et <i>https://dl-ssl.google.com/android/eclipse/</i> dans <b>Location</b>.</p>
+    <img alt="Choix du plugin à installer" src="../ressources/images/android/installation-win-etape10.png"/>
+	<br/>
+	<p>4. Cocher <b>Developer Tools</b> et cliquer sur <b>Next</b>.</p>
+	<img alt="Sélection du plugin" src="../ressources/images/android/installation-win-etape11.png"/>
+	<br/>
+	<p>5. La fenêtre suivante va afficher une liste de ce qui sera installé. Cliquer sur <b>Next</b>.</p>
+	<p>6. Lire et accepter les licenses, puis cliquer sur <b>Finish</b>. L'installation va commencer.</p>
+    <img alt="Licences du plugin" src="../ressources/images/android/installation-win-etape13.png"/>
+	<p><u>NOTE :</u> Il est possible qu'un message s'affiche durant l'installation disant que la validité
+	du logiciel ne peut pas être vérifiée. Cliquer simplement sur OK.</p>
+	<img alt="Message d'erreur Licences" src="../ressources/images/android/installation-win-etape13-note.png"/>
+	<br/>
+	<p>7. À la fin, un message demandera de redémarrer Eclipse pour que les changements soient appliqués.
+	Cliquer sur <b>Yes</b>.</p>
+    <img alt="Redémarrer Eclipse" src="../ressources/images/android/installation-win-etape14.png"/>
+	<br/>
+	<p>8. À l'ouverture d'Eclipse, il est possible qu'il ne trouve pas le répertoire d'Android SDK. Aller
+	dans <b>Window</b> > <b>Préferences</b> > <b>Android</b> et dans <i>SDK Location</i>, sélectionner le dossier où le SDK a été installé
+	 (normalement C:/Android).</p>
+    <img alt="Ajout du répertoire du SDK" src="../ressources/images/android/installation-win-etape15.png"/>
+	<br/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>GIMP vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de GIMP:</p>
     <ul>
-        <li>gimp-data</li>
-        <li>libbabl</li>
-        <li>libgegl</li>
-        <li>libgimp2</li>
-        <li>libilmbase6</li>
-        <li>libmng1</li>
-        <li>libopenexr6</li>
+        <li>Java Development Kit (JDK) 7 (<a href="">voir guide d'installation</a>)</li>
+        <li>Eclipse 3.7.2 ou une version plus récente (<a href="">voir guide d'installation</a>)</li>
+        <li></li>
     </ul>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution.</p>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
+    <p>Le lien de téléchargement se trouve sur <a href="https://developer.android.com/sdk/index.html#Other">cette page</a>. 
+	<br>Choisissez la version Linux qui se trouve dans <b>SDK Tools Only</b>.</p>
+<br/>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
-
+   <p>1. Extraire le dossier téléchargé à l'emplacement désiré (par exemple, dans un nouveau dossier nommé <i>Android</i> dans <b>Home</b>)</p>
+	<p>2. Ouvrir un terminal et se rendre au répertoire où le dossier a été extrait.</p>
+	<p>3. Entrer les trois commandes suivantes (appuyer sur Entrer après chaque ligne). Ceci enregistrera le chemin du SDK dans une variable d'environnement
+	<blockquote>cd android-sdk-linux/tools/ <br/>
+	echo "export PATH=${PATH}:$(pwd)" >> ~/.bashrc <br/>
+	. ~/.bashrc</blockquote></p>
+    <img alt="" src="../ressources/images/android/installation-linux-etape3.png"/>
+    <br/>
+	<p>4. Toujours dans le terminal, entrer <b>android update sdk</b>. Ceci ouvrira Android SDK Manager.</p>
+	<p><u>NOTE :</u> Si la commande est introuvable, il est possible d'accéder au SDK Manager à partir
+	d'Eclipse, une fois le plugin installé. Passez à <a href="">cette partie</a>, puis exécutez les étapes 5 et 6 ensuite.</p>
+	<p>5. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :</p>
+	<ul>
+        <li>Android SDK Platform-tools</li>
+        <li>Android SDK Build-tools</li>
+        <li>Android Support Library</li>
+		<li>Google USB Driver</li>
+    </ul>
+	<p>Choisir également les API (versions de Android) dont vous aurez besoin.
+	<br/>
+	<u>NOTE :</u> Vous pouvez tout cocher, mais l'installation risque de prendre beaucoup de temps.</p>
+    <img alt="" src="../ressources/images/android/installation-linux-etape4.png"/> 
+	<br/>
+	<p>6. Accepter les licences et attendre que l'installation se complète.</p>
+    <img alt="" src="../ressources/images/android/installation-linux-etape6.png"/>
+	<br/>
+	
+<h3><a name="linux-plugin">Installation du plugin pour Eclipse</a></h3>
+    <p>1. Etape 1</p>
+<br/>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
-        <li><a href="www.gimp.org/">Site officiel de GIMP</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/gimp">GIMP dans la documentation Ubuntu francophone</a></li>
+        <li><a href="https://developer.android.com/index.html">Site officiel d'Android pour les développeurs</a></li>
 
 
 </div>
 
 <?php
-	include '/DC12015_DocumentationInstallation/php/pieddepage.php'
+	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/pieddepage.php');
 ?>

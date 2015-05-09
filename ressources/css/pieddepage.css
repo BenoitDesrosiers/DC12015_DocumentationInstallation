@@ -1,0 +1,32 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(216,235,248);
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+/* Boutton pour aller en haut de la page */
+#hautdepage{
+	border:none;
+	text-align:center; 
+	font-weight: bold;
+	color: #444;
+	text-decoration: none;
+	position:fixed;
+	bottom:10px;
+	right:0px;
+	display:none;
+}
+#hautdepage:hover{
+	text-decoration:none;
+}
+
+#hautdepage>img {
+    max-width: 100px;
+    max-height: 100px;
+	border: 0
+}

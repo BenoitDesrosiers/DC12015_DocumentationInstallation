@@ -21,42 +21,34 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>python (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>python</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>python (Nom inspiré de la série télévisée <i>"Monty Python"</i>) est un language de programmation interprété orienté objet. Ce Guide d'installation démontrera comment installer l'interpréteur de ce language sur différent système d'exploitation.</p>
 
 <h2><a name="windows">Windows</a></h2>
-
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de python nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
+    <p>Puisqu'il existe de nombreuses version de Python, il existe plusieurs interpréteur différent qui eux possède des compatibitités variées d'un système à l'autre.</p>
+    <p>L'installation de python 3.4.3 requiert Windows XP ou plus récent.</p>
     <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
-
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.python.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.python.org/pub/python/v2.8/windows/python-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
-
+    <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.python.org/downloads/">cette page</a>.</p>
+    <p>En date du 15 Avril 2015, la version la plus récente est la 3.4.3. et 2.7.9. Ces deux version possède des caractéristiques différentes (principalement la syntaxe) mais la 3.4.3 est la plus avancée jusqu'à présent.</p>
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/python/python-1.png"/>
-    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
-    <img alt="Installation standard ou personnalisée" src="../ressources/images/python/python-2.png"/>
-    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Accord de license" src="../ressources/images/python/python-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Installation complète" src="../ressources/images/python/python-4.png"/>
-    <img alt="Installation minimale" src="../ressources/images/python/python-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à ouvrir avec python par défaut, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/python/python-7.png"/>
-    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
-    <img alt="Révision des paramètres" src="../ressources/images/python/python-8.png"/>
-    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/python/python-9.png"/>
-    <img alt="Sélection de la langue" src="../ressources/images/python/python-10.png"/>
+    <p>Une fois l'exécutable téléchargé, exécutez-le. Il est possible que votre système d'exploitation affiche une fenêtre vous demandant la permission d'administrateur, acceptez.</p>
+    <img alt="Lancez l'exécutable" src="../ressources/images/python/python-1.png"/>
+    <p>La prochaine fenêtre vous demandera pour quelles sessions vous souhaitez installer l'interpréteur Python, selectionnez selon votre besoin et cliquez sur <i>"Next >"</i></p>
+    <img alt="Sessions utilisateur" src="../ressources/images/python/python-2.png"/>
+    <p>Ensuite, selectionnez le dossier dans lequel sera installé l'interpréteur lui-même et autres dossiers associés, puis cliquer sur <i>"Next >"</i>.</p>
+    <img alt="Dossier d'installation" src="../ressources/images/python/python-3.png"/>
+    <p>La prochaine fenêtre vous laissera choisir les extentions que vous pouvez ajouter ou retirer à l'installation. Par défault, il est conseillé de seulement cliquer sur <i>"Next >"</i> et les extentions de base seront installées (pip, par exemple, peut s'avéré très utile).</p>
+    <img alt="Extensions supplémentaires" src="../ressources/images/python/python-4.png"/>
+    <p>L'installateur commencera immédiatement l'installation et vous devriez avoir la fenêtre de chargement suivante : </p>
+    <img alt="Fenêtre de chargement" src="../ressources/images/python/python-5.png"/>
+    <p>Une fois terminé, vous n'avez qu'à cliquer sur le bouton <i>"Finish"</i> et l'installation sera complétée.</p>
+    <img alt="Installation complétée" src="../ressources/images/python/python-6.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>python vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de python:</p>
+    <p>python est souvent pré-inclus par défaut sur plusieurs distributions de Linux. Dans ce cas, il n'est pas nécessaire de l'installer.</p>
+    <p>Les packets suivants sont nécessaires au fonctionnement de python :</p>
     <ul>
         <li>python-data</li>
         <li>libbabl</li>
@@ -67,17 +59,21 @@
         <li>libopenexr6</li>
     </ul>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer python est de passer par le gestionnaire de paquets de sa distribution.</p>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
+    <p>Si Python n'est pas présent sur votre système, vous devez ajouter un répertoire de téléchargement afin d'avoir accès à l'installateur python.</p>
+    <p>Pour ce faire, vous n'avez qu'à entrez la ligne de commande suivante: <i>"sudo add-apt-repository ppa:fkrull/deadsnakes"</i>.</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
+	<p>Premièrement, ouvrez une console système.</p>
+	<p>Entrez ensuite la ligne suivante : <i>"sudo apt-get pythonX.X"</i> (Remplacer X.X par la version souhaitez, '3.4' par exemple).</p>	
+    <img alt="Association de fichiers" src="../ressources/images/python/python-6.png"/>
+    <p>Si le système est protegé par un compte administrateur, la console risque de vous demander d'entrer le mot de passe afin de continuer.</p>
+    <p>Une série de ligne devrait apparaitre à l'écran, celle-ci démontre que l'installation est en cours. Notez que ces lignes vous informent également de l'installation des packets nécessaires mentionné precedement.</p>
+    <p>Lorsque la console aura terminé l'installation, vous devriez pouvoir entrez de nouvelles lignes de commande dans la console.</p>
+    <p>Vous devriez également pouvoir observer les lignes de commande suivante : <i>"X mis à jour, X nouvellement installés, X à enlever et X non mis à jour."</i></p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="www.python.org/">Site officiel de python</a></li>
         <li><a href="http://doc.ubuntu-fr.org/python">python dans la documentation Ubuntu francophone</a></li>
-
 
 </div>
 
