@@ -95,8 +95,8 @@
 						<a href="/DC12015_DocumentationInstallation/logiciels/android.php">
 							<li class='application'>
 								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/android.png' alt='Audacity'/>
-								<h2 class='titre'>Android</h2>
-								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+								<h2 class='titre'>Android SDK</h2>
+								<p class='description'>Outils de développement d'applications Android</p>
 							</li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/larp.php">

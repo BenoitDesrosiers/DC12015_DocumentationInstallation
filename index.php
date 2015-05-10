@@ -4,6 +4,10 @@
 ?>
 
 <div class="contenu">
+	<h2 class="nomProgrammes"><a href="./logiciels/android.php">Android SDK</a></h2>
+		<p>Le kit de développement (SDK) Android  est un ensemble d'outil permettant de développer des applications pour le système d'exploitation Android. Il inclut un débogueur, un émulateur, des bibliothèques logicielles, de la documentation et des exemples de codes.</p>
+		<hr/>
+		
 	<h2 class="nomProgrammes"><a href="./logiciels/audacity.php">Audacity</a></h2>
 		<p>Logiciel libre, gratuit et multi-plateforme permetant de créer et de modifier des fichiers audio. Il propose de nombreuses fonctions permettant d'ajouter des effets sonores ainsi qu'enregistrer ses propres sons. De plus, il permet de convertir ses fichiers audio en plusieurs formats couramment utilisés dans l'industrie. </p>
 		<hr/>
