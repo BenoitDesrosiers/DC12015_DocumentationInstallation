@@ -57,17 +57,20 @@
 	                        <h2 class='titre'>SQLite Studio</h2>
 	                        <p class='description'>SQLiteStudio est un gestionnaire de base de données SQLite en mode graphique.</p>
 	                    </li>
+						</a>
 	                </ul>
 	            </div>
 	        </li>
 	        <li class='categorie'><p>Bureautique</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/libreOffice.php">
 	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/libreoffice.png' alt='Gimp'/>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/libreoffice.png' alt='libreOffice'/>
 	                        <h2 class='titre'>LibreOffice</h2>
-	                        <p class='description'>La meilleure suite bureautique de l'univers</p>
+	                        <p class='description'>Libre office est une suite bureautique libre de droits</p>
 	                    </li>
+						</a>
 			<a href="/DC12015_DocumentationInstallation/logiciels/virtualbox.php">
 			    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/virtualbox.png' alt='VirtualBox'/>

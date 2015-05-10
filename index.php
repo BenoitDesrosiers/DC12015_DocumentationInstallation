@@ -36,6 +36,10 @@
 		<p>LARP est un environnement de développement dédié à un language d'algorithme et de résolution de problèmes. LARP permet de concevoir des algorithmes dans un language de programmation pseudo-code rédigé en francais et permet de les représenter sous forme d'organigrammes. Le lien plus haut redirige vers la page du guide d'installation de LARP sur les système d'exploitation Windows et Linux.</p>
 		<hr/>
 	
+	<h2 class="nomProgrammes"><a href="./logiciels/libreOffice.php">LibreOffice</a></h2>	
+		<p>LibreOffice est une suite bureautique libre de droits. LibreOffice comprend un logiciel de traitement de texte, un tableur de feuilles de calcul, logiciel de création de diaporamas, un logiciel de dessin, un logiciel d'édition de formules mathématiques ainsi qu'un logiciel de base de données. Le lien plus haut redirige vers la page du guide d'installation.</p>
+		<hr/>
+	
 	<h2 class="nomProgrammes"><a href="./logiciels/firefox.php">Mozilla Firefox</a></h2>
 		<p>Mozilla Firefox est un navigateur web libre et gratuit, développé et distribué par la Mozilla Foundation avec l'aide de milliers de bénévoles grâce aux méthodes de développement du logiciel libre/open source et à la liberté du code source.</p>
 		<hr/>
