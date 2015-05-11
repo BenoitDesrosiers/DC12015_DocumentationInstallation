@@ -43,6 +43,10 @@
 	<h2 class="nomProgrammes"><a href="./logiciels/firefox.php">Mozilla Firefox</a></h2>
 		<p>Mozilla Firefox est un navigateur web libre et gratuit, développé et distribué par la Mozilla Foundation avec l'aide de milliers de bénévoles grâce aux méthodes de développement du logiciel libre/open source et à la liberté du code source.</p>
 		<hr/>
+		
+	<h2 class="nomProgrammes"><a href="./logiciels/fillezilla.php">Filezilla</a></h2>
+		<p>Filezilla est un client FTP(File transfer protocol), multi-plateforme rapide et fiable, muni d'une interface utilisateur graphique simple et facile d'utilisation.</p>
+		<hr/>
 	
 	<h2 class="nomProgrammes"><a href="./logiciels/msysgit.php">msysGit</a></h2>
 		<p>msysGit (abbréviation de <i>Minimal System Git</i>) est un environnement de développement fournissant différents outils permettant de modifier et de compiler le code source du logiciel Git pour Windows (<i>Git for Windows</i>).</p>
