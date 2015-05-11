@@ -5,7 +5,7 @@
 
 <div class='contenu'>
 
-<h1>Guide d'installation de GIMP<h1>
+<h1>Guide d'installation de Filezilla<h1>
 
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
@@ -21,62 +21,52 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>Filezilla est un client FTP(File transfer protocol), multi-plateforme rapide et fiable, muni d'une interface utilisateur graphique simple et facile d'utilisation.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de GIMP nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
+    <p>L'installation de Filezilla nécessite Windows Vista ou plus récent.</p>
     <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
+    <p>Des liens de téléchargement peuvent être trouvés sur <a href="https://filezilla-project.org/download.php">cette page</a>.</p>
+    <p>La dernière version de Filezilla est 3.10.3.</p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-1.png"/>
-    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
-    <img alt="Installation standard ou personnalisée" src="../ressources/images/gimp/gimp-2.png"/>
-    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Accord de license" src="../ressources/images/gimp/gimp-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Installation complète" src="../ressources/images/gimp/gimp-4.png"/>
-    <img alt="Installation minimale" src="../ressources/images/gimp/gimp-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à ouvrir avec GIMP par défaut, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Association de fichiers" src="../ressources/images/gimp/gimp-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/gimp/gimp-7.png"/>
-    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
-    <img alt="Révision des paramètres" src="../ressources/images/gimp/gimp-8.png"/>
-    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-9.png"/>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-10.png"/>
+    <p>Lancer l'exécutable. Une fenêtre apparaîtra, vous pouvez lire les licences du logiciel et appuyer sur le bouton I Agree</p>
+    <img alt="Licence" src="https://wiki.filezilla-project.org/wiki/images/b/b2/Installer-license.png"/>
+    <p>Ensuite l'instalateur vous demandera si vous voulez installer Filezilla pour votre session ou tout les usagers de l'ordinateur.</p>
+    <img alt="Installation pour toute les usagers." src="https://wiki.filezilla-project.org/wiki/images/a/a9/Me_or_everyone.png"/>
+    <p>La fenêtre suivante vous demandera quelle partie de Filezilla vous voulez installer. Si vous voulez un raccourci sur votre bureau cocher Desktop icon. Cliquer sur Next</p>
+    <img alt="Parti de Filezilla" src="https://wiki.filezilla-project.org/wiki/images/b/bc/Installer-components.png"/>
+    <p>Choisir l'endroit pour l'instalation du logiciel puis cliquer sur Next.</p>
+    <img alt="Endroit d'instalation" src="https://wiki.filezilla-project.org/wiki/images/7/71/Fzsetup4.png"/>
+    <p>Sélectionner le nom de dossier dans lequel vous voulez retrouver Filezilla dans votre explorateur Windows puis cliquer sur Next.</p>
+    <img alt="Nom dans menu windows" src="https://wiki.filezilla-project.org/wiki/images/0/08/Fzsetup5.png"/>
+    <p>Finalement, après une barre de progession, Filezilla sera installé. Si vous ne voulez pas utiliser Filezilla à l'instant, décocher Start Filezilla now.</p>
+    <img alt="Fin instalation" src="https://wiki.filezilla-project.org/wiki/images/d/db/Fzsetupf.png"/>
+    
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>GIMP vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de GIMP:</p>
-    <ul>
-        <li>gimp-data</li>
-        <li>libbabl</li>
-        <li>libgegl</li>
-        <li>libgimp2</li>
-        <li>libilmbase6</li>
-        <li>libmng1</li>
-        <li>libopenexr6</li>
-    </ul>
+    <p>Pour installer Filezilla sur Linux(tout dépendant de la version de linux utilisée) il est préférable d'utiliser le gestionnaire de paquet fourni par votre Linux. </p>
+   
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution.</p>
-    <p>Dans le cas d'Ubuntu, on peut passer par la Logithèque Ubuntu ou par un terminal.</p>
-    <p>Logithèque Ubuntu: ...<p>
-    <p>Terminal: ...<p>
-<h3><a name="linux-installation">Procédure d'installation</a></h3>
+    <p>Dans le terminal : sudo apt-get install filezilla </p>
+	<p>L'instalation est gérer automatiquement par Linux par la suite.</p>
+	
+	<p>Si vous préferez utiliser un lien de téléchargement direct sur le site de Filezilla: </p>
+	<p><a href="https://filezilla-project.org/download.php?show_all=1">Téléchargement pour toute les versions de Linux.</a></p>
+	
+	
+
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
-        <li><a href="www.gimp.org/">Site officiel de GIMP</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/gimp">GIMP dans la documentation Ubuntu francophone</a></li>
+        <li><a href="https://filezilla-project.org/">Site officiel de Filezilla</a></li>
+        <li><a href="http://doc.ubuntu-fr.org/filezilla">Filezilla dans la documentation Ubuntu francophone</a></li>
+	</ul>
 
 
 </div>
