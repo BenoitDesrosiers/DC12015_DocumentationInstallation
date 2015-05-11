@@ -4,6 +4,10 @@
 ?>
 
 <div class="contenu">
+	<h2 class="nomProgrammes"><a href="./logiciels/android.php">Android SDK</a></h2>
+		<p>Le kit de développement (SDK) Android  est un ensemble d'outil permettant de développer des applications pour le système d'exploitation Android. Il inclut un débogueur, un émulateur, des bibliothèques logicielles, de la documentation et des exemples de codes.</p>
+		<hr/>
+		
 	<h2 class="nomProgrammes"><a href="./logiciels/audacity.php">Audacity</a></h2>
 		<p>Logiciel libre, gratuit et multi-plateforme permetant de créer et de modifier des fichiers audio. Il propose de nombreuses fonctions permettant d'ajouter des effets sonores ainsi qu'enregistrer ses propres sons. De plus, il permet de convertir ses fichiers audio en plusieurs formats couramment utilisés dans l'industrie. </p>
 		<hr/>
@@ -30,6 +34,10 @@
 		
 	<h2 class="nomProgrammes"><a href="./logiciels/larp.php">LARP</a></h2>	
 		<p>LARP est un environnement de développement dédié à un language d'algorithme et de résolution de problèmes. LARP permet de concevoir des algorithmes dans un language de programmation pseudo-code rédigé en francais et permet de les représenter sous forme d'organigrammes. Le lien plus haut redirige vers la page du guide d'installation de LARP sur les système d'exploitation Windows et Linux.</p>
+		<hr/>
+	
+	<h2 class="nomProgrammes"><a href="./logiciels/libreOffice.php">LibreOffice</a></h2>	
+		<p>LibreOffice est une suite bureautique libre de droits. LibreOffice comprend un logiciel de traitement de texte, un tableur de feuilles de calcul, logiciel de création de diaporamas, un logiciel de dessin, un logiciel d'édition de formules mathématiques ainsi qu'un logiciel de base de données. Le lien plus haut redirige vers la page du guide d'installation.</p>
 		<hr/>
 	
 	<h2 class="nomProgrammes"><a href="./logiciels/firefox.php">Mozilla Firefox</a></h2>

@@ -22,7 +22,8 @@
 	<h3><a name="windows-prealables">Préalables</a></h3>
 		<ul>
 			<li>Windows XP avec service pack 2 ou plus récent.</li>
-			<li>.Net Framework 4.5 ou plus récent.</li>
+			<li>.Net Framework 4.5 ou plus récent.<br/>
+				Pour savoir si .Net Framework est installé, allez dans <i>Programmes et fonctionnalités</i> et vérifier si Microsoft .Net Framework s'y trouve.</li>
 			<li>Pour générer des rapports Word et visionner le tutoriel. Il vous faudra Microsoft Word 2003 ou plus récent.</li>
 			<li>Pour générer des rapports Excel. Il vous faudra Microsoft Excel 2003 ou plus récent.</li>
 			<li>Pour visionner le tutoriel. Il vous faudra un lecteur PDF.</li>
@@ -43,6 +44,8 @@
 		<img alt="Licence" src="../ressources/images/caseComplete/licence.png"/>
 		<p>Sélectionner le type d'installation, <i>Typical</i> est recommandé, ensuite cliquer sur <i>Next</i>.</p>
 		<img alt="Configuration" src="../ressources/images/caseComplete/configuration.png"/>
+		<p>Si vous choisissez <i>custom</i>, vous pour choisir les extentions à ajouter.
+		<img alt="Personnaliser" src="../ressources/images/caseComplete/personnaliser.png"/>
 		<p>Sélectionner le répertoire de destination à l'aide du bouton <i>Change...</i>. Une fois le répertoire choisi cliquer sur <i>Next</i>.</p>
 		<img alt="Destination" src="../ressources/images/caseComplete/destination.png"/>
 		<p>Attendre la fin de l'installation.</p>
@@ -56,7 +59,6 @@
 		<p>CaseComplete est maintenant activé et prêt à être utilisé.<p>
 		<img alt="Actif" src="../ressources/images/caseComplete/actif.png"/>
 	
-
 	<h2><a name="voir-aussi">Voir aussi:</a></h2>
 		<ul>
 			<li><a href="http://casecomplete.com/">Site officiel de Case Complete </a></li>

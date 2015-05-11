@@ -74,7 +74,7 @@
 			<li><a href="http://audacity.sourceforge.net/">Site officiel d'Audacity</a></li>
 			<li><a href="http://manual.audacityteam.org/o/">Un manuel d'utilisation pour Audacity</a></li>
 		</ul>
-
+<span style="color:red">comment je sais que c'est bien installé?</span>
 </div>
 
 <?php
