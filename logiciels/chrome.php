@@ -34,6 +34,7 @@
     <p>Vous devez définir si votre système est un système 32 ou 64 bits.Pour ce faire, 
 	ouvrez le menu Démarrer,puis faite un clic droit sur « Ordinateur », et ensuite un clic gauche sur « Propriétés ».
 	Cette information se trouvera vis-à-vis la ligne « Type du système ».Il est important de télécharger la bonne version de l’installateur(32 ou 64 bits) afin de permettre une utilisation optimale de Google Chrome.</p>
+<span style="color:red">très bien, mais mal formaté ... même chose pour linux</span>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
     <p>Vous pouvez télécharger Google Chrome sur <a href="https://www.google.com/chrome/browser/desktop/">cette page</a>.</p>

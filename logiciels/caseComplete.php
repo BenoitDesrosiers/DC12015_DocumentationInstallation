@@ -22,7 +22,8 @@
 	<h3><a name="windows-prealables">Préalables</a></h3>
 		<ul>
 			<li>Windows XP avec service pack 2 ou plus récent.</li>
-			<li>.Net Framework 4.5 ou plus récent.</li>
+			<li>.Net Framework 4.5 ou plus récent.<span style="color:red">comment je fais pour savoir si j'ai ca???</span>
+</li>
 			<li>Pour générer des rapports Word et visionner le tutoriel. Il vous faudra Microsoft Word 2003 ou plus récent.</li>
 			<li>Pour générer des rapports Excel. Il vous faudra Microsoft Excel 2003 ou plus récent.</li>
 			<li>Pour visionner le tutoriel. Il vous faudra un lecteur PDF.</li>
@@ -33,7 +34,8 @@
 	<h3><a name="windows-telechargement">Téléchargement</a></h3>
 		<p>Des liens de téléchargement peuvent être trouvés sur <a href="http://casecomplete.com/newversion">http://casecomplete.com/newversion</a>.</p>
 		
-	<h3><a name="windows-installation">Procédure d'installation</a></h3>
+	<h3><a name="windows-installation">Procédure d'installation<span style="color:red">ca manque d'explication</span>
+</a></h3>
 		<img alt="Installateur" src="../ressources/images/caseComplete/installateur.png"/>
 		<img alt="Licence" src="../ressources/images/caseComplete/licence.png"/>
 		<img alt="Configuration" src="../ressources/images/caseComplete/configuration.png"/>
@@ -42,7 +44,8 @@
 		<img alt="Succès" src="../ressources/images/caseComplete/succes.png"/>
 		<img alt="Activation" src="../ressources/images/caseComplete/activation.png"/>
 		<img alt="Clé d'activation" src="../ressources/images/caseComplete/cleActivation.png"/>
-		<img alt="Actif" src="../ressources/images/caseComplete/actif.png"/>
+		<img alt="Actif" src="../ressources/images/caseComplete/actif.png"/><span style="color:red">pourquoi c'est en double????</span>
+
 	
 
 	<h2><a name="voir-aussi">Voir aussi:</a></h2>

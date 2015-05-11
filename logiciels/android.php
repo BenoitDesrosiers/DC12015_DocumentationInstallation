@@ -51,7 +51,7 @@
 	<p>2. L'installateur va vérifier qu'une version de Java SE Development Kit est bien installée sur l'ordinateur.</p>
     <img alt="Vérification de Java" src="../ressources/images/android/installation-win-etape2.png"/>
     <br/>
-	<p>3. Choisir si le SDK doit être installé pour tous les utilisateurs de l'ordinateur ou seulement celui-ci.</p>
+	<p>3. Choisir si le SDK doit être installé pour tous les utilisateurs de l'ordinateur ou seulement celui-ci. <span style="color:red">comment choisir????</span></p>
     <img alt="Choix d'utilisateurs" src="../ressources/images/android/installation-win-etape3.png"/>
     <br/>
 	<p>4. Choisir le dossier où installer le SDK. Il est recommandé de l'installer directement à la racine du C:/, dans un dossier appelé <i>Android</i>.</p>
@@ -67,7 +67,7 @@
 	<p>7. Laisser coché <b>Start SDK Manager</b> et cliquer sur <b>Finish</b>.</p>
     <img alt="Fin de l'installation" src="../ressources/images/android/installation-win-etape7.png"/>
     <br/>
-	<p>8. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :</p>
+	<p>8. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :<span style="color:red">pourquoi ceux là?  référer au cours </span></p>
 	<ul>
         <li>Android SDK Platform-tools</li>
         <li>Android SDK Build-tools</li>
@@ -122,7 +122,7 @@
     <br/>
 	<p>4. Toujours dans le terminal, entrer <b>android update sdk</b>. Ceci ouvrira Android SDK Manager.</p>
 	<p><u>NOTE :</u> Si la commande est introuvable, il est possible d'accéder au SDK Manager à partir
-	d'Eclipse, une fois le plugin installé. Passez à <a href="">cette partie</a>, puis exécutez les étapes 5 et 6 ensuite.</p>
+	d'Eclipse, une fois le plugin installé. Passez à <a href="">cette partie</a>,<span style="color:red">mauvais lien</span>puis exécutez les étapes 5 et 6 ensuite.</p>
 	<p>5. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :</p>
 	<ul>
         <li>Android SDK Platform-tools</li>
@@ -167,6 +167,7 @@
 	 (normalement C:/Android).</p>
     <img alt="Ajout du répertoire du SDK" src="../ressources/images/android/installation-plugin-etape8.png"/>
 	<br/>
+	<span style="color:red">comment je fais pour savoir que ca a fonctionné?</span>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="https://developer.android.com/index.html">Site officiel d'Android pour les développeurs</a></li>

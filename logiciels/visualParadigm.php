@@ -21,6 +21,11 @@
 
 <h2><a name="presentation">Présentation</a></h2>
     <p>Visual Paradigm est un modélisateur d'UML visuel et outil de cas facile à utiliser, puissant et multi-platforme. Visual Paradigm fournit aux développeurs de logiciels la plate-forme de développement d'avant-garde pour bâtir des applications de qualité plus rapidement, mieux et pour moins cher!</p>
+<span style="color:red">nous avons une version éducative qui peut être trouvé sur notre serveur. et nous fournissons la clé d'activation</span>
+Sur réseau sans fil: 
+http://206.123.48.15/Visual_Paradigm/
+Sur réseau filaire:
+ http://10.90.0.103/Visual_Paradigm/
 
 <h3><a name="prealables">Préalables</a></h3>
     <ul>
@@ -57,7 +62,8 @@
 	<img alt="Démarage" src="../ressources/images/visualParadigm/windows/demarrage.png"/>
 	<p>Entrer votre nom dans le champs <i>Name</i> ainsi que votre adresse couriel dans le champs <i>Email address</i> et cliquer sur <i>Get activation code and start Visual Paradigm</i> afin de recevoir votre code d'activation.</p>
 	<img alt="Inscription" src="../ressources/images/visualParadigm/windows/inscription.png"/>
-	<p>Aller chercher votre code d'activation dans votre boître messagerie à l'adresse entrée précédament et cliquer sur <i>Activate</i>.</p>
+	<p>Aller chercher votre code d'activation dans votre boître messagerie à l'adresse entrée précédament
+ et cliquer sur <i>Activate</i>.</p>
 	<img alt="Réception du code d'activation" src="../ressources/images/visualParadigm/windows/code.png"/>
 	<p>Entrer votre code d'activation ainsi que votre nom. Cliquer sur <i>Activate</i>.</p>
 	<img alt="Entrée du code d'activation" src="../ressources/images/visualParadigm/windows/codeActivation.png"/>
@@ -91,7 +97,7 @@
 	<img alt="Entrée du code d'activation" src="../ressources/images/visualParadigm/linux/linux_codeActivation.png"/>
 	<p>Cliquer sur <i>OK</i> afin de démarrer Visual Paradigm.</p>
 	<img alt="Activation réussie" src="../ressources/images/visualParadigm/linux/linux_activation.png"/>
-
+<span style="color:red">Comment je fais pour savoir si l'installation c'est bien passé ?</span>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="http://www.visual-paradigm.com/">Site officiel de Visual Paradigm</a></li>
