@@ -46,7 +46,10 @@
     <img alt="Destination du raccourci du logiciel" src="../ressources/images/wamp/wamp-8.png"/>
     <p>L'installation est terminée. Si vous ne désirez pas lancer le logiciel tout de suite, décochez la case <i>Launch WampServer 2 now</i>. Cliquez sur <i>Finish</i> pour quitter l'installateur.</p>
     <img alt="Installation terminée" src="../ressources/images/wamp/wamp-9.png"/>
-<span style="color:red">Comment je fais pour savoir si l'installation c'est bien passé ?</span>
+	<p>Vérifiez que Wamp fonctionne. Double-cliquez sur l’icone de Wamp Server.<br>
+	Attendre que le W du logo de Wamp devienne vert dans la barre des tâches.<br>
+	Dans le cas contraire, il n'est pas bien installé. Demandez l'aide du professeur.</p>
+    <img alt="Le logo devient vert" src="../ressources/images/wamp/wamp-10.png"/>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
