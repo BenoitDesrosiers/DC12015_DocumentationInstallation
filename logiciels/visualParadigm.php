@@ -34,7 +34,11 @@
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
     <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.visual-paradigm.com/download/">http://www.visual-paradigm.com/download/</a>.</p>
-    <p>Un version gratuite pour utilisation non commerciale est disponible en <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win32.exe">32bit</a> et <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win64.exe">64bit</a>.</p>
+    <p>Visual Paradigm 12.1 édition communauté (9 mai 2015):</p>
+	<ul>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win32.exe">Téléchargement direct Windows 32bit.</a></li>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win64.exe">Téléchargement direct Windows 64bit.</a></li>
+	</ul>
 	
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
 	<p>Cliquer sur <i>enregistrer le fichier</i> et executer l'installateur qui devrait se trouver dans le dossier téléchargement.</p>
@@ -43,7 +47,7 @@
 	<img alt="Décompression de l'installateur" src="../ressources/images/visualParadigm/windows/decompression.png"/>
 	<p>Cliquer sur <i>Next</i>.</p>
 	<img alt="Bienvenue" src="../ressources/images/visualParadigm/windows/bienvenue.png"/>
-	<p>Lire l'accord de liscence et sélectionner <i>I accept the agreement</i> ensuite cliquer sur <i>Next</i>.</p>
+	<p>Lire l'accord de licence et sélectionner <i>I accept the agreement</i> ensuite cliquer sur <i>Next</i>.</p>
 	<img alt="Accord de liscence" src="../ressources/images/visualParadigm/windows/liscence.png"/>
 	<p>Sélectionner le répertoire de destination à l'aide du bouton <i>Browse</i>. Une fois le répertoire choisi cliquer sur <i>Next</i>.</p>
 	<img alt="Choix du répertoire" src="../ressources/images/visualParadigm/windows/repertoire.png"/>
@@ -53,7 +57,7 @@
 	<img alt="Association des fichier .vpp" src="../ressources/images/visualParadigm/windows/association.png"/>
 	<p>Attendre la fin de l'installation.</p>
 	<img alt="Installation" src="../ressources/images/visualParadigm/windows/installation.png"/>
-	<p>Sélectionner l'option <i>Visual Paradigm 12.0</i> si vous voulez démarrer Visual Paradigm suite à la fermeture de l'installateur, sinon sélectionner <i>Don't start</i>. Cliquer sur <i>Finish</i>.</p>
+	<p>Sélectionner l'option <i>Visual Paradigm 12.1</i> si vous voulez démarrer Visual Paradigm suite à la fermeture de l'installateur, sinon sélectionner <i>Don't start</i>. Cliquer sur <i>Finish</i>.</p>
 	<img alt="Démarage" src="../ressources/images/visualParadigm/windows/demarrage.png"/>
 	<p>Entrer votre nom dans le champs <i>Name</i> ainsi que votre adresse couriel dans le champs <i>Email address</i> et cliquer sur <i>Get activation code and start Visual Paradigm</i> afin de recevoir votre code d'activation.</p>
 	<img alt="Inscription" src="../ressources/images/visualParadigm/windows/inscription.png"/>
@@ -67,7 +71,11 @@
 <h2><a name="linux">Linux</a></h2>
 	<h3><a name="linux-telechargement">Téléchargement</a></h3>
 	<p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.visual-paradigm.com/download/">http://www.visual-paradigm.com/download/</a>.</p>
-    <p>Un version gratuite pour utilisation non commerciale est disponible en <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux32.sh">32bit</a> et <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux64.sh">64bit</a>.</p>
+	<p>Visual Paradigm 12.1 édition communauté (9 mai 2015):</p>
+	<ul>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux32.sh">Téléchargement direct Linux 32bit.</a></li>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux64.sh">Téléchargement direct Linux 64bit.</a></li>
+	</ul>
 
 
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
