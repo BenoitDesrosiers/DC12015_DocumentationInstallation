@@ -30,7 +30,7 @@
 		<p>En date du 17 Mars 2015, la version la plus récente est la 7.1.1.259, disponible directement <a href="http://download.avs4you.com/distributives/AVSVideoEditor.exe">ici</a>. Il est nécessaire d'avoir au moins 146.77Mo d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
 
 	<h3><a name="windows-installation">Procédure d'installation</a></h3>
-		<p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Sélectionner Français pour la langue.</p>
+		<p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner<span style="color:red">???</span>langue utilisée par l'installateur. Sélectionner Français pour la langue.</p>
 		<img alt="Sélection de la langue" src="../ressources/images/avs/etape_0.png"/>
 		<p>Une fois la langue sélectionnée, choisir <i>Suivant</i> pour continuer l'installation </p>
 		<img alt="Installation standard ou personnalisée" src="../ressources/images/avs/etape_1.png"/>
@@ -47,6 +47,9 @@
 		<p>L'installation est complétée, sélectionner la case <i>Lancer AVS Video Editor</i> si nécessaire, puis cliquer sur <i>Terminer</i>.</p>
 		<img alt="Terminee" src="../ressources/images/avs/etape_7.png"/>
 		
+<span style="color:red">comment je fais pour savoir que l'installation a fonctionné???</span>
+
+<span style="color:red">et linux??? au moins indiqué que c'est juste pour windows</span>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>

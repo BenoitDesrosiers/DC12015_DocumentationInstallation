@@ -21,81 +21,42 @@
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>GIMP (acronyme de <i>GNU Image Manipulation Program</i>, aussi orthographié <i>Gimp</i>) est un logiciel de création et d'édition d'images matricielles libre et gratuit.</p>
+    <p>SQLiteStudio est une interface graphique au système de gestionaire de base de données SQLite</p>
 
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de GIMP nécessite Windows XP SP3 (ou XP x64 SP2) ou plus récent (Vista, 7 et 8).</p>
-    <p>L'installateur contient les versions 32 et 64-bit ainsi que toutes les dépendances nécessaires.</p>
+    <p>l'interpréteur Java est recomander pour avoir des performance.</p>
+    <p>L'archive contien les librairie nécessaire au fonctionnement de SQLiteStudio.</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
-    <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
+    <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://sqlitestudio.pl/?act=download">cette page</a>.</p>
+    <p>En date du 9 mai 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://sqlitestudio.pl/files/sqlitestudio3/complete/win32/sqlitestudio-3.0.5.zip">ici</a>. Il est nécessaire d'avoir au moins 10MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Cependant, le français ne figure pas parmi les options.</p>
-    <img alt="Sélection de la langue" src="../ressources/images/gimp/gimp-1.png"/>
-    <p>Une fois la langue sélectionnée, choisir <i>Install</i> pour une installation standard ou <i>Customize</i> pour une installation personnalisée. La suite de ce guide s'applique a une installation personnalisée.</p>
-    <img alt="Installation standard ou personnalisée" src="../ressources/images/gimp/gimp-2.png"/>
-    <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Accord de license" src="../ressources/images/gimp/gimp-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
-    <img alt="Installation complète" src="../ressources/images/gimp/gimp-4.png"/>
-    <img alt="Installation minimale" src="../ressources/images/gimp/gimp-5.png"/>
-    <p>Sélectionner les types de fichiers d'image à associer à Gimp. Ces formats d'image seront ouvert directement dans Gimp lorsque lancés depuis l'explorateur de fichier. Il est conseillé de conserver l'association des fichiers <i>.xcf</i> puisque ceux-ci sont utilisés par Gimp pour enregistrer les fichiers de travail. Cliquer sur <i>Next</i> une fois les choix effectués.</p>
-    <img alt="Association de fichiers" src="../ressources/images/gimp/gimp-6.png"/>
-    <p>Finalement, cocher ou décocher les options pour créer ou non un raccourci sur le bureau et dans la barre des tâches. Cela permet de trouver et de lancer plus rapidement Gimp, mais cela n'est pas nécessaire.</p>
-    <img alt="Création de raccourcis" src="../ressources/images/gimp/gimp-7.png"/>
-    <p>Réviser les paramètres d'installation. Au besoin, cliquer sur <i>Back</i> pour revenir en arrière et les modifier, puis cliquer sur <i>Install</i> pour procéder à l'installation.</p>
-    <img alt="Révision des paramètres" src="../ressources/images/gimp/gimp-8.png"/>
-    <p>À la fin de l'extraction des fichiers, appuyer sur <i>Finish</i> pour terminer le processus.</p>
-    <img alt="Installation en cours" src="../ressources/images/gimp/gimp-9.png"/>
-    <img alt="Terminé" src="../ressources/images/gimp/gimp-10.png"/>
+    <p>Extraire le contenue de l'archive dans un dossier comme votre dossier personnel ou dans ProgramFiles.</p>
+    <p>Il ne vous reste qu'à faire un racourci vers le bureau en cliquant droit sur SQLiteStudio.exe et cliquer sur envoyer vers puis sur bureau.</p>
+    <p>L'installation est terminé.</p>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>GIMP vient de base avec plusieurs distributions Linux. Dans ce cas, il n'est pas nécessaire de l'installer. Ce n'est pas le cas d'Ubuntu, qui a cessé de l'inclure au printemps 2010.</p>
-    <p>Les packets suivants sont nécessaires au fonctionnement de GIMP:</p>
-    <ul>
-        <li>gimp-data</li>
-        <li>libbabl</li>
-        <li>libgegl</li>
-        <li>libgimp2</li>
-        <li>libilmbase6</li>
-        <li>libmng1</li>
-        <li>libopenexr6</li>
-    </ul>
+    <p>SQLiteStudio n'est pas présent dans les dépots Ubuntu, il faut donc le télécharger depuis le site web officiel.</p>
+    <p>Les librairie suivantes sont nécessaires au fonctionnement de SQLiteStudio:</p>
 <h3><a name="linux-telechargement">Téléchargement</a></h3>
-    <p>La façon propre d'installer GIMP est de passer par le gestionnaire de paquets de sa distribution. Les gestionnaires de paquets se chargent autant du téléchargement que de l'installation.</p>
+    <p>Télécharger l'archive de SQLiteStudio à cette <a href="http://sqlitestudio.pl/files/sqlitestudio3/complete/linux64/sqlitestudio-3.0.5.tar.xz">adresse</a> ou sur <a href="http://sqlitestudio.pl/?act=download">la page de téléchargement</a>.</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
-    <p>Dans le cas d'Ubuntu, on peut passer par un terminal ou par la Logithèque Ubuntu.</p>
+    <p>Extraire le contenue de l'archive dans un dossier auquel vous pouvez accedé facilement.</p>
     <h4>Terminal</h4>
-    <p>Ouvrir un terminal. Il suffit de taper «Terminal» dans la barre de recherche du Dash (la première icône en haut de la barre à gauche de l'écran) et cliquer sur l'icône correspondante dans les résultats.</p>
-    <img alt="Ouvrir le Dash" src="../ressources/images/gimp/dash.png"/>
-    <img alt="Taper «Terminal»" src="../ressources/images/gimp/terminal.png"/>
-    <p>Dans la fenêtre qui s'ouvre, entrer la commande suivante:<p>
-    <p class="terminal">sudo apt-get install gimp</p>
-    <p>Réviser les changements affichés et confirmer. Le mot de passe de l'utilisateur «root» sera demandé.</p>
-    <img alt="Révision d'apt-get" src="../ressources/images/gimp/aptget.png"/>
-    <p>Le gestionnaire de paquets va maintenant télécharger et installer tous les paquets nécessaires.</p>
-    <img alt="Apt-get installe les paquets nécessaires" src="../ressources/images/gimp/installation.png"/>
-    <h4>Logithèque Ubuntu</h4>
-    <p>Ouvrir l'application Logithèque Ubuntu dans la barre de lancement à gauche.</p>
-    <img alt="Ouvrir la Logithèque Ubuntu" src="../ressources/images/gimp/ouvrir-logitheque.png"/>
-    <img alt="Logithèque Ubuntu" src="../ressources/images/gimp/logitheque.png"/>
-    <p>Taper "gimp" dans la boîte de recherche de la Logithèque et sélectionner l'application correspondante, qui devrait être le premier résultat.</p>
-    <img alt="Chercher Gimp dans la logiquèque" src="../ressources/images/gimp/logitheque-gimp.png"/>
-    <p>Cliquer sur le bouton Install. Une icône s'ajoutera à la barre de lancement et indiquera la progression du téléchargement.</p>
-    <img alt="Ouvrir la Logithèque Ubuntu" src="../ressources/images/gimp/progres-installation.png"/>
+    <p>la décompression peut se faire avec un terminal en utilisant la commande.</p>
+    <p class="terminal">/chemain/vers/archive.extension decompress /chemain/vers/cible</p>
+    <p>Vous avez terminer l'instalation de SQLiteStudio.</p>
     <h4>Terminé</h4>
-    <p>À la fin du processus, Gimp est prêt à être utilisé. Il peut être trouvé dans le menu Dash ou lancé par ligne de commande.</p>
-    <img alt="Gimp est installé" src="../ressources/images/gimp/post.png"/>
+    <p>Pour lancer SQLiteStudio assurez vous que vous avez mis le droit a l'exécution sur le fichier SqliteStudio.sh.</p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
-        <li><a href="http://www.gimp.org/">Site officiel de GIMP</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/gimp">GIMP dans la documentation Ubuntu francophone</a></li>
+        <li><a href="http://sqlitestudio.pl">Site officiel de SQLiteStudio</a></li>
+        <li><a href="http://sqlite.org/">Site de SQLite</a></li>
     </ul>
 
 

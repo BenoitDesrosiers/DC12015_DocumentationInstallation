@@ -40,8 +40,8 @@
 						<a href="/DC12015_DocumentationInstallation/logiciels/sqlServerManagement.php">
 	                    <li class='application'>
 	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/SqlManagement.png' alt='Sql_Management_studio'/>
-	                        <h2 class='titre'>Sql server management studio 2014</h2>
-	                        <p class='description'><br>Gestionaire de basse de donnée sql de Microsoft.</p>
+	                        <h2 class='titre petit_titre'>Microsoft&#169 SQL server 2014 management studio</h2>
+	                        <p class='description'>Gestionaire de basse de donnée SQL de Microsoft.</p>
 	                    </li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/sqlite3.php">
@@ -57,17 +57,27 @@
 	                        <h2 class='titre'>SQLite Studio</h2>
 	                        <p class='description'>SQLiteStudio est un gestionnaire de base de données SQLite en mode graphique.</p>
 	                    </li>
+						</a>
 	                </ul>
 	            </div>
 	        </li>
 	        <li class='categorie'><p>Bureautique</p>
 	            <div class='menu-categorie'>
 	                <ul>
+						<a href="/DC12015_DocumentationInstallation/logiciels/libreOffice.php">
 	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/libreoffice.png' alt='Gimp'/>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/libreoffice.png' alt='libreOffice'/>
 	                        <h2 class='titre'>LibreOffice</h2>
-	                        <p class='description'>La meilleure suite bureautique de l'univers</p>
+	                        <p class='description'>Libre office est une suite bureautique libre de droits</p>
 	                    </li>
+						</a>
+			<a href="/DC12015_DocumentationInstallation/logiciels/virtualbox.php">
+			    <li class='application'>
+	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/virtualbox.png' alt='VirtualBox'/>
+	                        <h2 class='titre'>Oracle VM Virtualbox</h2>
+	                        <p class='description'>Virtualbox est un programme pouvant simuler différents systême d'exploitation virtuellement.</p>
+	                    </li>
+			</a>
 	                </ul>
 	            </div>
 	        </li>
@@ -88,8 +98,8 @@
 						<a href="/DC12015_DocumentationInstallation/logiciels/android.php">
 							<li class='application'>
 								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/android.png' alt='Audacity'/>
-								<h2 class='titre'>Android</h2>
-								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+								<h2 class='titre'>Android SDK</h2>
+								<p class='description'>Outils de développement d'applications Android</p>
 							</li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/larp.php">

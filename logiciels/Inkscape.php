@@ -73,11 +73,6 @@
     <p>11) Finalement, le programme est installé et prêt à être utiliser, cliquez sur "Fermer" pour fermer la fenêtre d'installation.<br></br></p>
     
 
-<h2><a name="voir-aussi">Voir aussi:</a></h2>
-    <ul>
-        <li><a href="www.python.org/">Site officiel de python</a></li>
-        <li><a href="http://doc.ubuntu-fr.org/python">python dans la documentation Ubuntu francophone</a></li>
-
 
 </div>
 

@@ -128,6 +128,11 @@ nav h2 {
     max-width: 80px;
 }
 
+.petit_titre 
+{
+    font-size:0.75em;
+}
+
 .application>.description {
     font-size: 14px;
 }

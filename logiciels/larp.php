@@ -74,6 +74,7 @@
     <img alt="chargement" src="../ressources/images/larp/larp-10.png"/>
     <p>Une fois terminé, la fenêtre suivante devrait apparaître. Cliquez sur "Terminer" afin de finaliser l'installation.</p>
     <img alt="installation-complete" src="../ressources/images/larp/larp-11.png"/>
+<span style="color:red">comment je fais pour savoir que l'installation a fonctionné???</span>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
