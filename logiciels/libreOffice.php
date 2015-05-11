@@ -1,5 +1,5 @@
 <?php
-	$titrePage = "Guide d'installation de Gimp";
+	$titrePage = "Guide d'installation de LibreOffice";
 	include ($_SERVER['DOCUMENT_ROOT'].'/DC12015_DocumentationInstallation/php/entete.php');
 ?>
 
@@ -28,14 +28,14 @@
 
 <h3><a name="windows-prealables">Préalables</a></h3>
     <p>L'installation de LibreOffice nécessite Windows XP ou plus récent (Vista, 7 et 8).</p>
-    <p>PC Pentium (Pentium III, Athlon ou supérieur</p>
-	<p>256 Mo de mémoire vive (512 Mo sont toutefois recommendés</p>
+    <p>PC Pentium (Pentium III, Athlon ou supérieur)</p>
+	<p>256 Mo de mémoire vive (512 Mo sont toutefois recommandés)</p>
 	<p>1.5 Gb d'espace mémoire</p>
 	<p>Résolution de 1024x768 ou mieux avec au moins 256 couleurs</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
     <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://fr.libreoffice.org/download/libreOffice-stable/">cette page</a>.</p>
-    <p>La version stable la plus récente est la 4.3.7, disponible directement. Nous pouvons aussi choisir une version <i>Évolution</i>(ou <i>Fresh</i> en anglais) qui est destinée aux usagers impatients d'utiliser les nouvelles fonctionnalités. Ce n'est pas notre cas</p>
+    <p>La version stable la plus récente est la 4.3.7, disponible directement. Nous pouvons aussi choisir une version <i>Évolution</i> (ou <i>Fresh</i> en anglais) qui est destinée aux usagers impatients d'utiliser les nouvelles fonctionnalités. Ce n'est pas notre cas</p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
     <p>Télécharger l'exécutable. On vous offre maintenant de faire un don à la fondation de LibreOffice. Une fois téléchargé, lancer l'exécutable</p>
