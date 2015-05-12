@@ -27,6 +27,10 @@
 	<h2 class="nomProgrammes"><a href="./logiciels/chrome.php">Google Chrome</a></h2>
 		<p>Chrome est un navigateur web privateur développé par Google basé sur le projet libre Chromium fonctionnant sous Windows, Mac, Linux, Android et iOS. Google Chrome est identique à Chromium hormis un logo différent et quelques fonctionnalités en moins ou en développement.</p>
 		<hr/>
+	
+	<h2 class="nomProgrammes"><a href="./logiciels/JDK.php">JDK (Java Devlopment Kit)</a></h2>
+		<p>Le Java Development Kit (JDK) est un ensemble de bibliothèques logicielles de base du langage de programmation Java.</p>
+		<hr/>
 		
 	<h2 class="nomProgrammes"><a href="./logiciels/lamp.php">Lamp Server</a></h2>
 		<p>LAMP est un acronyme désignant un ensemble de logiciels libres sur Linux permettant de construire des serveurs de sites web.</p>

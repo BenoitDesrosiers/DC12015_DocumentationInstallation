@@ -90,11 +90,13 @@
 	                        <h2 class='titre'>EiffelStudio</h2>
 	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
 	                    </li>
-	                    <li class='application'>
-	                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/eclipse.png' alt='Eclipse'/>
-	                        <h2 class='titre'>Eclipse</h2>
-	                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
-	                    </li>
+						<a href="/DC12015_DocumentationInstallation/logiciels/JDK.php">
+							<li class='application'>
+								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/java.png' alt='Eclipse'/>
+								<h2 class='titre'>JDK</h2>
+								<p class='description'>Outils de développement d'applications Java</p>
+							</li>
+						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/android.php">
 							<li class='application'>
 								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/android.png' alt='Audacity'/>
