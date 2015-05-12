@@ -16,6 +16,7 @@
     <a href="#linux"><h2>Linux</h2></a>
     <a href="#linux-prealables"><h3>Préalables</h3></a>
     <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
+	<a href="#verification"><h2>Vérification de l'installation</h2></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
@@ -68,13 +69,21 @@
 		<p>Patienter pendant le téléchargement et l'installation des paquets</p>
 		<img alt="Patience....." src="../ressources/images/audacity/etape3.png"/>
 		<p>L'installation est terminée</p>
+<
+h2><a name="verification">Vérification de l'installation</a></h2>
+	<p>Afin de savoir si l'installation s'est bel et bien effectué correctement, procéder comme suit.</p>
+	<p>Localiser l'icône d'audacity sur votre bureau et double cliquer dessus. </p>
+	<img alt="iconeBureau" src="../ressources/images/audacity/iconeBureau.png"/>
+	<p>L'interface du logiciel devrai ressembler à ceci:</p>
+	<img alt="interface" src="../ressources/images/audacity/interface.png"/>		
+	<p>Si c'est le cas, alors tout s'est bien déroulé!</p>	
 
 		<h2><a name="voir-aussi">Voir aussi:</a></h2>
 		<ul>
 			<li><a href="http://audacity.sourceforge.net/">Site officiel d'Audacity</a></li>
 			<li><a href="http://manual.audacityteam.org/o/">Un manuel d'utilisation pour Audacity</a></li>
 		</ul>
-<span style="color:red">comment je sais que c'est bien installé?</span>
+	
 </div>
 
 <?php

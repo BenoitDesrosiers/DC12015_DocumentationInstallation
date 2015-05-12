@@ -13,11 +13,13 @@
     <a href="#windows-prealables"><h3>Préalables</h3></a>
     <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
     <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
+	<a href="#linux"><h2>Linux</h2></a>
+	<a href="#verification"><h2>Vérification de l'installation</h2></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>Microsoft SQL Server 2014 Express est un système de gestion de données puissant et fiable, proposé gratuitement. Il offre un magasin de données complet et fiable pour les applications bureautiques et sites web légers. http://www.microsoftstore.com/store/msca/fr_CA/pdp/productID.304771000?srccode=cii_378095086&cpncode=41-44125751-2&WT.mc_id=PLA_FRCA_PLA</p>
+    <p>Microsoft SQL Server 2014 Express est un système de gestion de données puissant et fiable, proposé gratuitement. Il offre un magasin de données complet et fiable pour les applications bureautiques et sites web légers.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
@@ -61,6 +63,22 @@
 		<img alt="Fenêtre du centre d'installation" src="../ressources/images/sqlServer2014ManagementStudio/etape_15.png"/>
 		
 		
+
+<h2><a name="linux">Linux</a></h2>
+	<p>Il faut savoir qu'il n'y a actuellement pas de version linux de ce logiciel. Le seul système d'exploitation compatible est Windows.</p>
+
+<h2><a name="verification">Vérification de l'installation</a></h2>
+	<p>Afin de savoir si l'installation s'est bel et bien effectué correctement, procéder comme suit.</p>
+	<p>Localiser l'icône d' sur votre bureau et double cliquer dessus. </p>
+	<img alt="iconeBureau" src="../ressources/images/sqlServer2014ManagementStudio/iconeBureau.png"/>
+	<p>Le logiciel demande à se connecter au serveur de base de donnée qui est présentement en marche sur votre ordinateur. Il faut indiquer le nom du serveur que vous avez utilisé lors de l'installation plus haut, puis cliquer sur <i>Connect</i></p>
+	<img alt="connexion" src="../ressources/images/sqlServer2014ManagementStudio/connexion.png"/>
+	<p>L'interface du logiciel devrai ressembler à ceci:</p>
+	<img alt="interface" src="../ressources/images/sqlServer2014ManagementStudio/interface.png"/>		
+	<p>Si c'est le cas, alors tout s'est bien déroulé!</p>
+	<p>Vous pouvez maintenant créer vos requêtes SQL en utilisant le bouton <i>New Query</i>
+	<img alt="interface" src="../ressources/images/sqlServer2014ManagementStudio/boutonNewQuery.png"/>
+	<p>C'est maintenant à vous de créer la magie!</p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
