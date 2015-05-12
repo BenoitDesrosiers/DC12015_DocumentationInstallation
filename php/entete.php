@@ -120,7 +120,7 @@
 							<li class='application'>
 		                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Python.png' alt='Python'/>
 		                        <h2 class='titre'>Python</h2>
-		                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+		                        <p class='description'>L'interpréteur Python servant à exécuter des scripts Python.</p>
 		                    </li>	  
 		                </a>                  
 	                </ul>
