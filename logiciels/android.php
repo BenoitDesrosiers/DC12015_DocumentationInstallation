@@ -31,9 +31,9 @@
 
 <h3><a name="windows-prealables">Préalables</a></h3>
     <ul>
-        <li>Java Development Kit (JDK) 7 ou plus récent (<a href="">voir guide d'installation</a>)</li>
-        <li>Eclipse 3.7.2 ou une version plus récente</li>
-		<li>Microsoft® Windows® 8/7/Vista/2003 (32 ou 64-bit)</li>
+        <li>Java Development Kit (JDK) 7 ou plus récent(<a href="/DC12015_DocumentationInstallation/logiciels/JDK.php">voir guide d'installation</a>)</li>
+        <li>Eclipse 3.7.2 ou une version plus récente (<a href="">voir guide d'installation</a>)</li>
+		<li>Microsoft® Windows® 8/7/Vista/2003 (32 or 64-bit)</li>
 		<li>2 Go de RAM minimum (4 Go recommandé)</li>
 		<li> Au moins 1 Go d'espace disque libre</li>
     </ul>
