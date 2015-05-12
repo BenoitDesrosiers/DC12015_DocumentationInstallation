@@ -108,7 +108,7 @@
 							<li class='application'>
 		                        <img src='/DC12015_DocumentationInstallation/ressources/images/icones/Larp.png' alt='Larp'/>
 		                        <h2 class='titre'>Larp</h2>
-		                        <p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+		                        <p class='description'>Logiciel de conception d'algorithme à l'aide de pseudo-code ou d'organigramme</p>
 		                    </li>
 						</a>
                         <a href="/DC12015_DocumentationInstallation/logiciels/msysgit.php">
@@ -186,7 +186,7 @@
 							<li class='application'>
 								<img src='/DC12015_DocumentationInstallation/ressources/images/icones/FileZilla.png' alt='Filezilla'/>
 								<h2 class='titre'>FileZilla</h2>
-								<p class='description'>Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+								<p class='description'>Filezilla est un client FTP, très facile d'utilisation.</p>
 							</li>
 						</a>
 						<a href="/DC12015_DocumentationInstallation/logiciels/lamp.php">

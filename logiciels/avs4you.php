@@ -13,11 +13,13 @@
     <a href="#windows-prealables"><h3>Préalables</h3></a>
     <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
     <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
+	<a href="#linux"><h2>Linux</h2></a>
+	<a href="#verification"><h2>Vérification de l'installation</h2></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
 <h2><a name="presentation">Présentation</a></h2>
-    <p>Suite de logiciels payante permettant de créer et de modifier des images, des vidéos ainsi que des fichiers audios. Pendant les cours, nous nous concentrerons sur celui-ci: AvsVideo Editor</p>
+    <p>Suite de logiciels payante permettant de créer et de modifier des images, des vidéos ainsi que des fichiers audios. Pendant les cours, nous nous concentrerons sur celui-ci: AvsVideo Editor. Il est à noter que ce logiciel n'est disponible que sur Windows.</p>
 
 <h2><a name="windows">Windows</a></h2>
 
@@ -30,7 +32,7 @@
 		<p>En date du 17 Mars 2015, la version la plus récente est la 7.1.1.259, disponible directement <a href="http://download.avs4you.com/distributives/AVSVideoEditor.exe">ici</a>. Il est nécessaire d'avoir au moins 146.77Mo d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
 
 	<h3><a name="windows-installation">Procédure d'installation</a></h3>
-		<p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner langue utilisée par l'installateur. Sélectionner Français pour la langue.</p>
+		<p>Lancer l'exécutable. Une fenêtre apparaîtra, offrant de sélectionner<span style="color:red">???</span>langue utilisée par l'installateur. Sélectionner Français pour la langue.</p>
 		<img alt="Sélection de la langue" src="../ressources/images/avs/etape_0.png"/>
 		<p>Une fois la langue sélectionnée, choisir <i>Suivant</i> pour continuer l'installation </p>
 		<img alt="Installation standard ou personnalisée" src="../ressources/images/avs/etape_1.png"/>
@@ -47,6 +49,20 @@
 		<p>L'installation est complétée, sélectionner la case <i>Lancer AVS Video Editor</i> si nécessaire, puis cliquer sur <i>Terminer</i>.</p>
 		<img alt="Terminee" src="../ressources/images/avs/etape_7.png"/>
 		
+<span style="color:red">comment je fais pour savoir que l'installation a fonctionné???</span>
+
+<h2><a name="linux">Linux</a></h2>
+	<p>Il faut savoir qu'il n'y a actuellement pas de version linux de ce logiciel. Le seul système d'exploitation compatible est Windows.</p>
+	
+<h2><a name="verification">Vérification de l'installation</a></h2>
+	<p>Afin de savoir si l'installation s'est bel et bien effectué correctement, procéder comme suit.</p>
+	<p>Localiser l'icône d'AvsVideoEditor sur votre bureau et double cliquer dessus. </p>
+	<img alt="iconeBureau" src="../ressources/images/avs/iconeBureau.png"/>
+	<p>Cliquer sur suivant pour fermer la fenêtre de notification de version non activée.</p>
+	<img alt="interface" src="../ressources/images/avs/interface1.png"/>
+	<p>L'interface du logiciel devrai ressembler à ceci:</p>
+	<img alt="interface" src="../ressources/images/avs/interface2.png"/>
+	<p>Si c'est le cas, alors tout s'est bien déroulé!</p>	
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>

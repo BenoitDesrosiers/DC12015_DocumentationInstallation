@@ -10,9 +10,12 @@
 <div id="table_des_matieres">
     <a href="#presentation"><h2>Présentation</h2></a>
     <a href="#prealables"><h3>Préalables</h3></a>
-    <a href="#windows"><h2>Windows</h2></a>
-    <a href="#windows-telechargement"><h3>Téléchargement</h3></a>
-    <a href="#windows-installation"><h3>Procédure d'installation</h3></a>
+    <a href="#windows-es"><h2>Windows Édition Standard</h2></a>
+    <a href="#windows-es-telechargement"><h3>Téléchargement</h3></a>
+    <a href="#windows-es-installation"><h3>Procédure d'installation</h3></a>
+    <a href="#windows-ec"><h2>Windows Édition Communauté</h2></a>
+    <a href="#windows-ec-telechargement"><h3>Téléchargement</h3></a>
+    <a href="#windows-ec-installation"><h3>Procédure d'installation</h3></a>
     <a href="#linux"><h2>Linux</h2></a>
     <a href="#linux-telechargement"><h3>Téléchargement</h3></a>
     <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
@@ -29,21 +32,62 @@
 		<li>Minimum 4GB d'espace sur le disque (N'INCLUE PAS la taille des projets).</li>
 		<li>Microsoft Windows (XP/Vista/7/8), Microsoft Windows Server (2000/2003/2008/2012), Linux, Mac OS X</li>
 	</ul>
-	
-<h2><a name="windows">Windows</a></h2>
 
-<h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.visual-paradigm.com/download/">http://www.visual-paradigm.com/download/</a>.</p>
-    <p>Un version gratuite pour utilisation non commerciale est disponible en <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win32.exe">32bit</a> et <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win64.exe">64bit</a>.</p>
+<h2><a name="windows-ec">Windows Édition Standard</a></h2>
+
+<h3><a name="windows-ec-telechargement">Téléchargement</a></h3>
+    <p>Veuillez télécharger la version approprié selon votre système d'exploitation depuis le cégep.<p>
+	<ul>
+		<li>Sur réseau sans fil: <a href="http://206.123.48.15/Visual_Paradigm/">http://206.123.48.15/Visual_Paradigm/</a></li>
+		<li>Sur réseau filaire: <a href="http://10.90.0.103/Visual_Paradigm/">http://10.90.0.103/Visual_Paradigm/</a></li>
+	</ul>    
 	
-<h3><a name="windows-installation">Procédure d'installation</a></h3>
+<h3><a name="windows-ec-installation">Procédure d'installation</a></h3>
+	<p>Executer l'installateur qui devrait se trouver dans le dossier téléchargement.</p>
+	<p>Attendre la décompression de l'installateur.</p>
+	<img alt="Installateur" src="../ressources/images/visualParadigm/windows/editionStandard/installateur.png"/>
+	<p>Cliquer sur <i>Next</i>.</p>
+	<img alt="Bienvenue" src="../ressources/images/visualParadigm/windows/editionStandard/bienvenue.png"/>
+	<p>Lire l'accord de licence et sélectionner <i>I accept the agreement</i> ensuite cliquer sur <i>Next</i>.</p>
+	<img alt="Accord" src="../ressources/images/visualParadigm/windows/editionStandard/accord.png"/>
+	<p>Sélectionner le répertoire de destination à l'aide du bouton <i>Browse</i>. Une fois le répertoire choisi cliquer sur <i>Next</i>.</p>
+	<img alt="repertoire" src="../ressources/images/visualParadigm/windows/editionStandard/repertoire.png"/>
+	<p>Cocher l'option <i>Create a Start Menu folder</i> si vous souhaiter avoir un dossier dans le menu démarrage. Entrer un nom pour le dossier ou en choisir un existant. Cocher l'option <i>Create shortcuts for all users</i> pour créer un raccourci pour tous les utilisateurs du système. Cliquer sur <i>Next</i>.</p>
+ 	<img alt="Menu Démarrage" src="../ressources/images/visualParadigm/windows/editionStandard/menuDemarrage.png"/>
+	<p>Cocher l'option <i>Visual Paradigm Projet (*.vpp)</i> pour associer les fichiers de type "vpp" avec Visual Paradigm. Cliquer sur <i>Next</i>.</p>
+	<img alt="Association" src="../ressources/images/visualParadigm/windows/editionStandard/association.png"/>
+	<p>Attendre la fin de l'installation.</p>
+	<img alt="Installation" src="../ressources/images/visualParadigm/windows/editionStandard/installation.png"/>
+	<p>Sélectionner l'option <i>Visual Paradigm 11.2</i> si vous voulez démarrer Visual Paradigm suite à la fermeture de l'installateur, sinon sélectionner <i>Don't start</i>. Cliquer sur <i>Finish</i>.</p>
+	<img alt="Complet" src="../ressources/images/visualParadigm/windows/editionStandard/complet.png"/>
+	<p>Cliquer sur <i>Perpetual License</i>.</p>
+	<img alt="Licence" src="../ressources/images/visualParadigm/windows/editionStandard/licence.png"/>
+	<p>Entrer la licence fourni par le proffesseur et cliquer sur <i>Activate</i>.</p>
+	<img alt="Activation" src="../ressources/images/visualParadigm/windows/editionStandard/activation.png"/>
+	<p>Attendre la validation de la licence.</p>
+	<img alt="Académique" src="../ressources/images/visualParadigm/windows/editionStandard/academique.png"/>
+	<p>Cliquer sur <i>Start</i> afin de démarrer Visual Paradigm.</p>
+	<img alt="Actif" src="../ressources/images/visualParadigm/windows/editionStandard/actif.png"/>
+	
+	
+<h2><a name="windows-ec">Windows Édition Communauté</a></h2>
+
+<h3><a name="windows-ec-telechargement">Téléchargement</a></h3>
+    <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.visual-paradigm.com/download/">http://www.visual-paradigm.com/download/</a>.</p>
+    <p>Visual Paradigm 12.1 édition communauté (9 mai 2015):</p>
+	<ul>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win32.exe">Téléchargement direct Windows 32bit.</a></li>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Win64.exe">Téléchargement direct Windows 64bit.</a></li>
+	</ul>
+	
+<h3><a name="windows-ec-installation">Procédure d'installation</a></h3>
 	<p>Cliquer sur <i>enregistrer le fichier</i> et executer l'installateur qui devrait se trouver dans le dossier téléchargement.</p>
 	<img alt="Téléchargement" src="../ressources/images/visualParadigm/windows/telechargement.png"/>
 	<p>Attendre la décompression de l'installateur.</p>
 	<img alt="Décompression de l'installateur" src="../ressources/images/visualParadigm/windows/decompression.png"/>
 	<p>Cliquer sur <i>Next</i>.</p>
 	<img alt="Bienvenue" src="../ressources/images/visualParadigm/windows/bienvenue.png"/>
-	<p>Lire l'accord de liscence et sélectionner <i>I accept the agreement</i> ensuite cliquer sur <i>Next</i>.</p>
+	<p>Lire l'accord de licence et sélectionner <i>I accept the agreement</i> ensuite cliquer sur <i>Next</i>.</p>
 	<img alt="Accord de liscence" src="../ressources/images/visualParadigm/windows/liscence.png"/>
 	<p>Sélectionner le répertoire de destination à l'aide du bouton <i>Browse</i>. Une fois le répertoire choisi cliquer sur <i>Next</i>.</p>
 	<img alt="Choix du répertoire" src="../ressources/images/visualParadigm/windows/repertoire.png"/>
@@ -67,7 +111,11 @@
 <h2><a name="linux">Linux</a></h2>
 	<h3><a name="linux-telechargement">Téléchargement</a></h3>
 	<p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.visual-paradigm.com/download/">http://www.visual-paradigm.com/download/</a>.</p>
-    <p>Un version gratuite pour utilisation non commerciale est disponible en <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux32.sh">32bit</a> et <a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux64.sh">64bit</a>.</p>
+	<p>Visual Paradigm 12.1 édition communauté (9 mai 2015):</p>
+	<ul>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux32.sh">Téléchargement direct Linux 32bit.</a></li>
+		<li><a href="http://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_Linux64.sh">Téléchargement direct Linux 64bit.</a></li>
+	</ul>
 
 
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
@@ -91,7 +139,7 @@
 	<img alt="Entrée du code d'activation" src="../ressources/images/visualParadigm/linux/linux_codeActivation.png"/>
 	<p>Cliquer sur <i>OK</i> afin de démarrer Visual Paradigm.</p>
 	<img alt="Activation réussie" src="../ressources/images/visualParadigm/linux/linux_activation.png"/>
-
+	
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="http://www.visual-paradigm.com/">Site officiel de Visual Paradigm</a></li>

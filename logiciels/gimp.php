@@ -34,7 +34,8 @@
     <p>Il n'est pas nécessaire de désinstaller une version préexistante de Gimp avant de lancer l'installateur. La nouvelle version écrasera simplement l'ancienne et les paramètres et plugins tiers seront conservés.</p>
 
 <h3><a name="windows-telechargement">Téléchargement</a></h3>
-    <p>Des liens de téléchargement peuvent être trouvés sur <a href="www.gimp.org/downloads/">cette page</a>.</p>
+    <p>Des liens de téléchargement peuvent être trouvés sur <a href="http://www.gimp.org/downloads/">cette page</a>.
+</p>
     <p>En date du 27 février 2015, la version la plus récente est la 2.8.14, disponible directement <a href="http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.14-setup.exe">ici</a>. Il est nécessaire d'avoir au moins 87MB d'espace libre sur son disque dur pour pouvoir compléter le téléchargement.</p>
 
 <h3><a name="windows-installation">Installation</a></h3>
@@ -44,7 +45,7 @@
     <img alt="Installation standard ou personnalisée" src="../ressources/images/gimp/gimp-2.png"/>
     <p>Prendre connaissance de la license, puis cliquer sur <i>Next</i>.</p>
     <img alt="Accord de license" src="../ressources/images/gimp/gimp-3.png"/>
-    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>.</p>
+    <p>Choisir entre une installation compacte ou complète et choisir les modules individuels, puis cliquer sur <i>Next</i>. L'installation complète est recommandée.</p>
     <img alt="Installation complète" src="../ressources/images/gimp/gimp-4.png"/>
     <img alt="Installation minimale" src="../ressources/images/gimp/gimp-5.png"/>
     <p>Sélectionner les types de fichiers d'image à associer à Gimp. Ces formats d'image seront ouvert directement dans Gimp lorsque lancés depuis l'explorateur de fichier. Il est conseillé de conserver l'association des fichiers <i>.xcf</i> puisque ceux-ci sont utilisés par Gimp pour enregistrer les fichiers de travail. Cliquer sur <i>Next</i> une fois les choix effectués.</p>
