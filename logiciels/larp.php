@@ -28,13 +28,13 @@
 <h2><a name="windows">Windows</a></h2>
 
 <h3><a name="windows-prealables">Préalables</a></h3>
-    <p>L'installation de ce logiciel requiert les configurations matériels suivantes au minimum : </p>
+    <p>L'installation de ce logiciel requiert les configurations matériels minimales suivantes : </p>
     <ul>
         <li>Ordinateur de type PC</li>
         <li>64 Mo de mémoire vive</li>
         <li>10 Mo d'espace libre sur le disque rigide</li>
     </ul>
-    <p>Ainsi que les configurations logiciels suivante au minimum : </p>
+    <p>Ainsi que les configurations logiciels minimales suivantes : </p>
     <ul>
         <li>Microsoft® Windows® 95, 98, ME, NT, 2000, XP ou Vista®</li>
         <li>Microsoft® Internet Explorer v4.0 ou une version plus récente</li>
@@ -45,7 +45,7 @@
     veuillez vous rendre sur le <a href="http://larp.marcolavoie.ca/fr">site officiel</a></p>
 
 <h3><a name="windows-installation">Procédure d'installation</a></h3>
-    <p>Une fois l'exécutable téléchargé, exécuter celui-ci.</p>
+    <p>Une fois l'exécutable téléchargé, exécutez celui-ci.</p>
     <img alt="lancer-executable" src="../ressources/images/larp/larp-1.png"/>
     <p><a name="choix"><a>La fenêtre de présentation apparaîtra, cliquer sur suivant afin de poursuivre l'installation. 
     Ensuite, vous verrez la fenêtre suivante dans laquelle vous choisirez la langue du programme.</p>
@@ -56,7 +56,7 @@
     <p>La page suivante vous laissera choisir la version souhaitée, dans ce cas-ci, vous pouvez simplement cliquer sur <i>"suivant >"</i> pour 
     continuer.</p>
     <img alt="version" src="../ressources/images/larp/larp-4.png"/>
-    <p>Veuillez lire les informations émises sur la fenêtre suivante et une fois cela fait, cliquer sur <i>"Suivant >"</i>.</p>
+    <p>Veuillez lire les informations émises sur la fenêtre suivante et une fois cela fait, cliquez sur <i>"Suivant >"</i>.</p>
     <img alt="informations" src="../ressources/images/larp/larp-5.png"/>
     <p>En cliquant sur le bouton "parcourir" le programme vous laisse sélectionner une destination d'installation possédant un espace libre 
     d'au moins 0.7 mégabytes, tel que demandé sur la fenêtre.</p>
@@ -74,17 +74,19 @@
     <img alt="chargement" src="../ressources/images/larp/larp-10.png"/>
     <p>Une fois terminé, la fenêtre suivante devrait apparaître. Cliquez sur "Terminer" afin de finaliser l'installation.</p>
     <img alt="installation-complete" src="../ressources/images/larp/larp-11.png"/>
-<span style="color:red">comment je fais pour savoir que l'installation a fonctionné???</span>
+    <p>Pour s'assurer que LARP s'est installé correctement, ouvrez le dossier dans lequel vous avez précèdement choisi d'installer LARP. 
+    Par défault, ce dossier sera "C:\Program Files (x86)\LARP". Ensuite, exécutez larp.exe. Une fenêtre devrait ouvrir indiquant que LARP 
+    est bel et bien installé.</p>
+    <img alt="installation-complete" src="../ressources/images/larp/larp-12.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
-    <p>Veuillez noter que LARP a été développé pour les systèmes Windows seulement. Par contre, il est possible de l'installer à l'aide 
-    des logiciels comme Wine (L'installation de Wine n'est pas décrite dans ce guide).</p>
+    <p>Veuillez noter que LARP a été développé pour les systèmes Windows seulement. Par contre, il est possible de l'installer sur Linux à l'aide 
+    de logiciels tel que Wine (L'installation de Wine n'est pas décrite dans ce guide).</p>
 <h3><a name="linux-installation">Procédure d'installation</a></h3>
     <p>Une fois l'exécutable téléchargé, exécutez celui-ci avec Wine.</p>
     <img alt="larp-wine" src="../ressources/images/larp/larp-wine.png"/>
-    <p>Pour le reste de l'installation, référez-vous à l'installation sur Windows, puisqu'elle s'effectue exactement de la même manière 
-    que mentionné <a href="#choix">ici</a>.</p>
+    <p>Pour le reste de l'installation, référez-vous à l'<a href="#choix">installation sur Windows</a>, puisqu'elle s'effectue exactement de la même manière une fois l'exécutable lancé.</p>
 
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>

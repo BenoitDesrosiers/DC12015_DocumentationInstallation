@@ -53,6 +53,9 @@
     <img alt="Fenêtre de chargement" src="../ressources/images/python/python-5.png"/>
     <p>Une fois terminé, vous n'avez qu'à cliquer sur le bouton <i>"Finish"</i> et l'installation sera complétée.</p>
     <img alt="Installation complétée" src="../ressources/images/python/python-6.png"/>
+    <p>Pour s'assuré que python est bel et bien installé ouvrez une fenetre d'invite de commande python grâce à la procédure suivante : </p>
+    <p>Appuyer sur la touche "windows + r" et écrivez "python" dans la zone de texte. Cliquez ensuite sur "ok" et une invite de commande devrait s'ouvrir.</p>
+    <img alt="Installation complétée" src="../ressources/images/python/python-7.png"/>
 
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
