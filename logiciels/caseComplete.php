@@ -22,8 +22,8 @@
 	<h3><a name="windows-prealables">Préalables</a></h3>
 		<ul>
 			<li>Windows XP avec service pack 2 ou plus récent.</li>
-			<li>.Net Framework 4.5 ou plus récent.<span style="color:red">comment je fais pour savoir si j'ai ca???</span>
-</li>
+			<li>.Net Framework 4.5 ou plus récent.<br/>
+				Pour savoir si .Net Framework est installé, allez dans <i>Programmes et fonctionnalités</i> et vérifier si Microsoft .Net Framework s'y trouve.</li>
 			<li>Pour générer des rapports Word et visionner le tutoriel. Il vous faudra Microsoft Word 2003 ou plus récent.</li>
 			<li>Pour générer des rapports Excel. Il vous faudra Microsoft Excel 2003 ou plus récent.</li>
 			<li>Pour visionner le tutoriel. Il vous faudra un lecteur PDF.</li>
@@ -33,21 +33,32 @@
 
 	<h3><a name="windows-telechargement">Téléchargement</a></h3>
 		<p>Des liens de téléchargement peuvent être trouvés sur <a href="http://casecomplete.com/newversion">http://casecomplete.com/newversion</a>.</p>
+		<p>CaseComplete 2015 (9 mai 2015): <a href="http://serlio.s3.amazonaws.com/CaseCompleteSetup2015.exe">Téléchargement direct.</a></p
 		
-	<h3><a name="windows-installation">Procédure d'installation<span style="color:red">ca manque d'explication</span>
-</a></h3>
+	<h3><a name="windows-installation">Procédure d'installation</a></h3>
+		<p>Cliquer sur <i>enregistrer le fichier</i> et executer l'installateur qui devrait se trouver dans le dossier téléchargement.</p>
+		<img alt="Telechargement" src="../ressources/images/caseComplete/telechargement.png"/>
+		<p>Attendre le téléchargement de l'assistant d'installation.</p>
 		<img alt="Installateur" src="../ressources/images/caseComplete/installateur.png"/>
+		<p>Lire l'accord de licence et sélectionner <i>I accept the terms of the license agreement</i> ensuite cliquer sur <i>Next</i>.</p>
 		<img alt="Licence" src="../ressources/images/caseComplete/licence.png"/>
+		<p>Sélectionner le type d'installation, <i>Typical</i> est recommandé, ensuite cliquer sur <i>Next</i>.</p>
 		<img alt="Configuration" src="../ressources/images/caseComplete/configuration.png"/>
+		<p>Si vous choisissez <i>custom</i>, vous pour choisir les extentions à ajouter.
+		<img alt="Personnaliser" src="../ressources/images/caseComplete/personnaliser.png"/>
+		<p>Sélectionner le répertoire de destination à l'aide du bouton <i>Change...</i>. Une fois le répertoire choisi cliquer sur <i>Next</i>.</p>
 		<img alt="Destination" src="../ressources/images/caseComplete/destination.png"/>
+		<p>Attendre la fin de l'installation.</p>
 		<img alt="Installation" src="../ressources/images/caseComplete/installation.png"/>
+		<p>Sélectionner l'option <i>Run CaseComplete 2015 now</i> si vous voulez démarrer CaseComplete suite à la fermeture de l'installateur. Cliquer sur <i>Finish</i>.</p>
 		<img alt="Succès" src="../ressources/images/caseComplete/succes.png"/>
+		<p>Pour activer CaseComplete aller dans l'onglet <i>Tools</i> dans la section <i>License</i> et appuyer sur <i>Activate</i>.</p>
 		<img alt="Activation" src="../ressources/images/caseComplete/activation.png"/>
+		<p>Entrer votre nom, votre organisation (optionnel) et numéro de série (fourni par le professeur). Ensuite cliquer sur <i>Activate</i>.</p>
 		<img alt="Clé d'activation" src="../ressources/images/caseComplete/cleActivation.png"/>
-		<img alt="Actif" src="../ressources/images/caseComplete/actif.png"/><span style="color:red">pourquoi c'est en double????</span>
-
+		<p>CaseComplete est maintenant activé et prêt à être utilisé.<p>
+		<img alt="Actif" src="../ressources/images/caseComplete/actif.png"/>
 	
-
 	<h2><a name="voir-aussi">Voir aussi:</a></h2>
 		<ul>
 			<li><a href="http://casecomplete.com/">Site officiel de Case Complete </a></li>
