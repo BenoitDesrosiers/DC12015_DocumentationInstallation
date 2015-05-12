@@ -20,6 +20,7 @@
     <a href="#linux-installation"><h3>Procédure d'installation</h3></a>
 	<a href="#plugin-eclipse"><h2>Plugin pour Eclipse</h2></a>
 	<a href="#plugin-installation"><h3>Procédure d'installation</h3></a>
+	<a href="#plugin-verification"><h3>Vérification de l'installation</h3></a>
     <a href="#voir-aussi"><h2>Voir aussi</h2></a>
 </div>
 
@@ -30,9 +31,9 @@
 
 <h3><a name="windows-prealables">Préalables</a></h3>
     <ul>
-        <li>Java Development Kit (JDK) 7 (<a href="">voir guide d'installation</a>)</li>
-        <li>Eclipse 3.7.2 ou une version plus récente (<a href="">voir guide d'installation</a>)</li>
-		<li>Microsoft® Windows® 8/7/Vista/2003 (32 or 64-bit)</li>
+        <li>Java Development Kit (JDK) 7 ou plus récent (<a href="">voir guide d'installation</a>)</li>
+        <li>Eclipse 3.7.2 ou une version plus récente</li>
+		<li>Microsoft® Windows® 8/7/Vista/2003 (32 ou 64-bit)</li>
 		<li>2 Go de RAM minimum (4 Go recommandé)</li>
 		<li> Au moins 1 Go d'espace disque libre</li>
     </ul>
@@ -51,7 +52,7 @@
 	<p>2. L'installateur va vérifier qu'une version de Java SE Development Kit est bien installée sur l'ordinateur.</p>
     <img alt="Vérification de Java" src="../ressources/images/android/installation-win-etape2.png"/>
     <br/>
-	<p>3. Choisir si le SDK doit être installé pour tous les utilisateurs de l'ordinateur ou seulement celui-ci. <span style="color:red">comment choisir????</span></p>
+	<p>3. Choisir si le SDK doit être installé pour tous les utilisateurs de l'ordinateur ou seulement celui-ci, selon votre préférence.</p>
     <img alt="Choix d'utilisateurs" src="../ressources/images/android/installation-win-etape3.png"/>
     <br/>
 	<p>4. Choisir le dossier où installer le SDK. Il est recommandé de l'installer directement à la racine du C:/, dans un dossier appelé <i>Android</i>.</p>
@@ -67,7 +68,7 @@
 	<p>7. Laisser coché <b>Start SDK Manager</b> et cliquer sur <b>Finish</b>.</p>
     <img alt="Fin de l'installation" src="../ressources/images/android/installation-win-etape7.png"/>
     <br/>
-	<p>8. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :<span style="color:red">pourquoi ceux là?  référer au cours </span></p>
+	<p>8. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer. Pour que le SDK fonctionne, il faut au minimum ceux-ci :</p>
 	<ul>
         <li>Android SDK Platform-tools</li>
         <li>Android SDK Build-tools</li>
@@ -99,8 +100,8 @@
 <h2><a name="linux">Linux</a></h2>
 <h3><a name="linux-prealables">Préalables</a></h3>
     <ul>
-        <li>Java Development Kit (JDK) 7 (<a href="">voir guide d'installation</a>)</li>
-        <li>Eclipse 3.7.2 ou une version plus récente (<a href="">voir guide d'installation</a>)</li>
+        <li>Java Development Kit (JDK) 7 ou plus récent (<a href="">voir guide d'installation</a>)</li>
+        <li>Eclipse 3.7.2 ou une version plus récente</li>
 		<li>Environnement GNOME ou KDE</li>
 		<li>Librairie GNU C (glibc) 2.15 ou plus récente</li>
         <li>2 Go de RAM minimum (4 Go recommandé)</li>
@@ -122,8 +123,8 @@
     <br/>
 	<p>4. Toujours dans le terminal, entrer <b>android update sdk</b>. Ceci ouvrira Android SDK Manager.</p>
 	<p><u>NOTE :</u> Si la commande est introuvable, il est possible d'accéder au SDK Manager à partir
-	d'Eclipse, une fois le plugin installé. Passez à <a href="">cette partie</a>,<span style="color:red">mauvais lien</span>puis exécutez les étapes 5 et 6 ensuite.</p>
-	<p>5. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer, au minimum :</p>
+	d'Eclipse, une fois le plugin installé. Passez à <a href="#plugin-eclipse">cette partie</a>, puis exécutez les étapes 5 et 6 ensuite.</p>
+	<p>5. Lorsque SDK Manager sera ouvert, sélectionner les packages à installer. Pour que le SDK fonctionne, il faut au minimum ceux-ci :</p>
 	<ul>
         <li>Android SDK Platform-tools</li>
         <li>Android SDK Build-tools</li>
@@ -167,7 +168,11 @@
 	 (normalement C:/Android).</p>
     <img alt="Ajout du répertoire du SDK" src="../ressources/images/android/installation-plugin-etape8.png"/>
 	<br/>
-	<span style="color:red">comment je fais pour savoir que ca a fonctionné?</span>
+<h3><a name="plugin-verification">Vérification de l'installation</a></h3>
+	<p>Si l'installation s'est faite correctement, des boutons d'Android apparaîtront dans le menu (Android SDK Manager et Android Virtual Device Manager.
+	De plus, lors de la création d'un nouveau projet (File > New > Project...), une catégorie pour créer des projets Android sera présente.</p>
+	<img alt="Boutons SDK Manager et Virtual Device Manager" src="../ressources/images/android/verification-installation-1.png"/>
+	<img alt="Boutons SDK Manager et Virtual Device Manager" src="../ressources/images/android/verification-installation-2.png"/>
 <h2><a name="voir-aussi">Voir aussi:</a></h2>
     <ul>
         <li><a href="https://developer.android.com/index.html">Site officiel d'Android pour les développeurs</a></li>
